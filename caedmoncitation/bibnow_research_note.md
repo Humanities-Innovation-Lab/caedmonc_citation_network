@@ -4,7 +4,7 @@ date: 2026-05-20
 tags: [bibnow, caedmon, pipeline, zotero, obsidian]
 ---
 
-# Bibnow Pipeline — Team Note
+# Bibnow Pipeline — Research Note
 
 ## What it does
 
