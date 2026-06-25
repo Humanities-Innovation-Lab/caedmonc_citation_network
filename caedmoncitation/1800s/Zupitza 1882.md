@@ -14,6 +14,7 @@ record_title: "Alt- und mittelenglisches Übungsbuch zum Gebrauche bei Universit
 record_year: "1882"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

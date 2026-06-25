@@ -14,6 +14,7 @@ record_title: "The contribution of insular scribes of the seventh and eighth cen
 record_year: "1987"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

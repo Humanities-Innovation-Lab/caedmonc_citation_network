@@ -14,6 +14,7 @@ record_title: "The search for the Anglo-Saxon oral poet [T. Northcote Toller mem
 record_year: "1993"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

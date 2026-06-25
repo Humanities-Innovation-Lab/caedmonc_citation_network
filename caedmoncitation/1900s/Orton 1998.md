@@ -14,6 +14,7 @@ record_title: "The transmission of the West-Saxon versions of Cædmon’s Hymn: 
 record_year: "1998"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

@@ -14,6 +14,7 @@ record_title: "Die Hofbibliothek Karls des Grossen"
 record_year: "1966"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

@@ -14,6 +14,7 @@ record_title: "Willelmi Malmesbiriensis monachi de gestis pontificum Anglorum li
 record_year: "1870"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

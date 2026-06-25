@@ -14,6 +14,7 @@ record_title: "Studies in the history of Old English literature"
 record_year: "1953"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

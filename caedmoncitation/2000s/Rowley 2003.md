@@ -14,6 +14,7 @@ record_title: "Reassessing exegetical interpretations of Bede’s Historia eccle
 record_year: "2003"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

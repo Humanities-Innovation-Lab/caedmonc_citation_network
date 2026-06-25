@@ -14,6 +14,7 @@ record_title: "The historia regum Britannie of Geoffrey of Monmouth"
 record_year: "1985"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

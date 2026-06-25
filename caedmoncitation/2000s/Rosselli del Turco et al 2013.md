@@ -14,6 +14,7 @@ record_title: "“Edition Visualisation Technology: A Simple Tool to Visualise T
 record_year: "2013"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

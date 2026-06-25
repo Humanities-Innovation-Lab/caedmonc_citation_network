@@ -14,6 +14,7 @@ record_title: "De arte metrica et de schematibus et tropis"
 record_year: "1975"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

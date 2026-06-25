@@ -14,6 +14,7 @@ record_title: "Ags. Scepen"
 record_year: "1912"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

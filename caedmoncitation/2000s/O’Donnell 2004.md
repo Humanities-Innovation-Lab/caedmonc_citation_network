@@ -14,6 +14,7 @@ record_title: "Bede’s strategy in paraphrasing Cædmon’s Hymn"
 record_year: "2004"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

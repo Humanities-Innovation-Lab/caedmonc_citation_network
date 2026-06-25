@@ -14,6 +14,7 @@ record_title: "Manuscript variation in multiple recension Old English poetic tex
 record_year: "1996"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

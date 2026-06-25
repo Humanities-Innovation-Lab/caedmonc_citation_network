@@ -14,6 +14,7 @@ record_title: "The Anglo-Saxon minor poems"
 record_year: "1942"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

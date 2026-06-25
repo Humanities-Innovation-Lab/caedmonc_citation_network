@@ -14,6 +14,7 @@ record_title: "The archetypal verse line in Cædmon’s “Hymn” and Beowulf"
 record_year: "1992"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

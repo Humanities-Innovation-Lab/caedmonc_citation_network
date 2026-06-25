@@ -14,6 +14,7 @@ record_title: "St Cædmon"
 record_year: "1998"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

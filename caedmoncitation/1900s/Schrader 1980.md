@@ -14,6 +14,7 @@ record_title: "Cædmon and the monks: the Beowulf-poet and literary continuity i
 record_year: "1980"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

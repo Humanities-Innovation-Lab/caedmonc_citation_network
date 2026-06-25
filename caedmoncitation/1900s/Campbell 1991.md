@@ -14,6 +14,7 @@ record_title: "Old English grammar"
 record_year: "1991"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

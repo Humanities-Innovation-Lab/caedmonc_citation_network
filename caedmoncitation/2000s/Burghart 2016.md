@@ -14,6 +14,7 @@ record_title: "“The TEI Critical Apparatus Toolbox: Empowering Textual Scholar
 record_year: "2016"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

@@ -14,6 +14,7 @@ record_title: "Old English “formulaic” studies and Cædmon’s Hymn in a com
 record_year: "1983"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

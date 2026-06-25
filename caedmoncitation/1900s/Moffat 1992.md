@@ -14,6 +14,7 @@ record_title: "Anglo-Saxon scribes and Old English verse"
 record_year: "1992"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

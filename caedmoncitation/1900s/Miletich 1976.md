@@ -14,6 +14,7 @@ record_title: "The quest for “the formula”: a comparative reappraisal"
 record_year: "1976"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

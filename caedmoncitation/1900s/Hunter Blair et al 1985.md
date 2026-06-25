@@ -14,6 +14,7 @@ record_title: "Whitby as a centre of learning in the seventh century"
 record_year: "1985"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

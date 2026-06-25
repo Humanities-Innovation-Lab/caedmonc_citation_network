@@ -14,6 +14,7 @@ record_title: "Descriptive catalogue of the manuscripts in the library of Corpus
 record_year: "1909"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

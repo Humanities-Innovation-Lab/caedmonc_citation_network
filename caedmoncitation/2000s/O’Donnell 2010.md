@@ -14,6 +14,7 @@ record_title: "Different strokes, same folk: Designing the multi-form digital ed
 record_year: "2010"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

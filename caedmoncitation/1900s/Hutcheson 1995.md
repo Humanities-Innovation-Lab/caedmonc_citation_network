@@ -14,6 +14,7 @@ record_title: "Old English poetic metre"
 record_year: "1995"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

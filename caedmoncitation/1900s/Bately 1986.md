@@ -14,6 +14,7 @@ record_title: "MS A: A semi-diplomatic edition with introduction and indices"
 record_year: "1986"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

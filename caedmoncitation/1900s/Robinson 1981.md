@@ -14,6 +14,7 @@ record_title: "Bede’s envoi to the Old English history: an experiment in editi
 record_year: "1981"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

@@ -14,6 +14,7 @@ record_title: "Early English literature (to Wiclif)"
 record_year: "1883"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

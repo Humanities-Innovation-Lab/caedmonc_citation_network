@@ -14,6 +14,7 @@ record_title: "The Junius manuscript"
 record_year: "1931"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

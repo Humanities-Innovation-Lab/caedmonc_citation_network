@@ -14,6 +14,7 @@ record_title: "Book distribution lists from Thorney Abbey, Cambridgeshire, 1324-
 record_year: "1948"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

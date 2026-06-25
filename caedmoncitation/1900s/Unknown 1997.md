@@ -14,6 +14,7 @@ record_title: "The book of common prayer"
 record_year: "1997"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

@@ -14,6 +14,7 @@ record_title: "The antiquities of the Anglo-Saxon church"
 record_year: "1841"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

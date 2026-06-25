@@ -14,6 +14,7 @@ record_title: "Catalogus codicum manuscriptorum Bibliothecae regiae"
 record_year: "1739"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

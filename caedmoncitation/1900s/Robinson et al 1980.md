@@ -14,6 +14,7 @@ record_title: "Old English literature in its most immediate context"
 record_year: "1980"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

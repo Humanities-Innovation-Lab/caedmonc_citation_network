@@ -14,6 +14,7 @@ record_title: "Memorials of Saint Dunstan, Archbishop of Canterbury, edited from
 record_year: "1874"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

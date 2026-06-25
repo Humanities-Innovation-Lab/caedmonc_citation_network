@@ -14,6 +14,7 @@ record_title: "The Moore Bede: Cambridge University Library Kk. 5. 16"
 record_year: "1959"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

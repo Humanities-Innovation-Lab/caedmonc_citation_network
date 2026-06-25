@@ -14,6 +14,7 @@ record_title: "The Leningrad Bede: an eighth century manuscript of the Venerable
 record_year: "1952"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

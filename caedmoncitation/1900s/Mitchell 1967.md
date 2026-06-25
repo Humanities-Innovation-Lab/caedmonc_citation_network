@@ -14,6 +14,7 @@ record_title: "Swa in Cædmon’s Hymn line 3"
 record_year: "1967"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

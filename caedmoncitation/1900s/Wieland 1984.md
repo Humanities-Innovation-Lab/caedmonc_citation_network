@@ -14,6 +14,7 @@ record_title: "Cædmon, the clean animal"
 record_year: "1984"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

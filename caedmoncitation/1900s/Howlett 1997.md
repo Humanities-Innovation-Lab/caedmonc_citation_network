@@ -14,6 +14,7 @@ record_title: "British books in biblical style"
 record_year: "1997"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

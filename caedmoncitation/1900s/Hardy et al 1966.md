@@ -14,6 +14,7 @@ record_title: "Gesta Herwardi solum la translacion Maistre Geffrei Gaimar"
 record_year: "1966"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

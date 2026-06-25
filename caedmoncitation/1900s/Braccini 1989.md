@@ -14,6 +14,7 @@ record_title: "Creazione dell’uomo o destino dell’uomo?: due ipotesi per fir
 record_year: "1989"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

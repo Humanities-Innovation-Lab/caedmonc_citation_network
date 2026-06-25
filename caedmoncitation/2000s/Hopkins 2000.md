@@ -14,6 +14,7 @@ record_title: "Unpublished essay (English 3450a, University of Lethbridge)"
 record_year: "2000"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

@@ -14,6 +14,7 @@ record_title: "Daniel Paul O’Donnell, Cædmon’s Hymn: A multi-media study, e
 record_year: "2007"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

@@ -14,6 +14,7 @@ record_title: "Bede’s miracle stories"
 record_year: "1966"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

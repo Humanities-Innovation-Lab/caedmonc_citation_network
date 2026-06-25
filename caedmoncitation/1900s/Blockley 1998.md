@@ -14,6 +14,7 @@ record_title: "Cædmon’s conjunction: Cædmon’s Hymn 7a revisited"
 record_year: "1998"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

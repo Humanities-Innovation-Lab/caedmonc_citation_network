@@ -14,6 +14,7 @@ record_title: "Historiæ ecclesiasticæ gentis Anglorum libri quinque auctore sa
 record_year: "1722"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

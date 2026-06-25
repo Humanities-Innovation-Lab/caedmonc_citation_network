@@ -14,6 +14,7 @@ record_title: "On the dating of early Bede manuscripts"
 record_year: "1973"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

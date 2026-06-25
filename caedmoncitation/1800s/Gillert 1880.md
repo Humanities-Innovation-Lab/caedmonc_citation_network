@@ -14,6 +14,7 @@ record_title: "Lateinische Handschriften in St. Petersburg"
 record_year: "1880"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

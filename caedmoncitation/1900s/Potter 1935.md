@@ -14,6 +14,7 @@ record_title: "The Winchester Bede"
 record_year: "1935"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

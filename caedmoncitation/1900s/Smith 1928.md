@@ -14,6 +14,7 @@ record_title: "The place-names of the North Riding of Yorkshire"
 record_year: "1928"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

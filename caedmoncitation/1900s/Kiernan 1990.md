@@ -14,6 +14,7 @@ record_title: "Old English manuscripts: the scribal deconstruction of â€œearlyâ€
 record_year: "1990"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

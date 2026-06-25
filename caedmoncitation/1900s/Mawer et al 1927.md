@@ -14,6 +14,7 @@ record_title: "The place-names of Worcestershire"
 record_year: "1927"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

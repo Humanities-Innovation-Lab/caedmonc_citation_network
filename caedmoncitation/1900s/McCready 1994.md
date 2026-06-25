@@ -14,6 +14,7 @@ record_title: "Miracles and the Venerable Bede"
 record_year: "1994"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

@@ -14,6 +14,7 @@ record_title: "The Cædmon manuscript of Anglo-Saxon biblical poetry: Junius XI 
 record_year: "1927"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

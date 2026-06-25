@@ -14,6 +14,7 @@ record_title: "Cædmon in context: transforming the formula"
 record_year: "1985"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

@@ -14,6 +14,7 @@ record_title: "Grundriss zur Geschichte der angelsächsischen Litteratur"
 record_year: "1885"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

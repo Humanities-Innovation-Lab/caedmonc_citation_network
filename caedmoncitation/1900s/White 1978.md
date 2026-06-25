@@ -14,6 +14,7 @@ record_title: "Medieval religion and technology: collected essays"
 record_year: "1978"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

@@ -14,6 +14,7 @@ record_title: "Textual scholarship: an introduction"
 record_year: "1994"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

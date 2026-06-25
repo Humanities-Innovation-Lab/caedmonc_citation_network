@@ -14,6 +14,7 @@ record_title: "Der Caedmon-Hymnus Versuch einer Neudeutung in sprach-und religio
 record_year: "1980"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

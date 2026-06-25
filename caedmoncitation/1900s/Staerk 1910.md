@@ -14,6 +14,7 @@ record_title: "Les manuscrits latins du Ve au XIIIe siècle conservés à la bib
 record_year: "1910"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

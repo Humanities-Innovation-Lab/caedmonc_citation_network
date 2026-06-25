@@ -14,6 +14,7 @@ record_title: "Towards an African literature: the emergence of literary form in 
 record_year: "1973"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

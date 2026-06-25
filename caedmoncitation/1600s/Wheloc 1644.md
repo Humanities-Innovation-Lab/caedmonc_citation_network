@@ -14,6 +14,7 @@ record_title: "Historiæ ecclesiasticæ gentis Anglorum libri V a Venerabili Bed
 record_year: "1644"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

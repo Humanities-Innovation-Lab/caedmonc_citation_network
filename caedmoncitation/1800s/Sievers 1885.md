@@ -14,6 +14,7 @@ record_title: "Zur Rhythmik des germanischen Alliterationsverses I &II"
 record_year: "1885"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

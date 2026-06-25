@@ -14,6 +14,7 @@ record_title: "Laurence Nowell’s transcript of BM Cotton Otho B.xi"
 record_year: "1974"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

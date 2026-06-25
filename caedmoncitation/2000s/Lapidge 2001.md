@@ -14,6 +14,7 @@ record_title: "The Blackwell encyclopaedia of Anglo-Saxon England"
 record_year: "2001"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

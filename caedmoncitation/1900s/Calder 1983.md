@@ -14,6 +14,7 @@ record_title: "Sources and analogues of Old English Poetry 2: the major Germanic
 record_year: "1983"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

@@ -14,6 +14,7 @@ record_title: "The memorial transmission of Old English poetry: a study of the e
 record_year: "1968"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

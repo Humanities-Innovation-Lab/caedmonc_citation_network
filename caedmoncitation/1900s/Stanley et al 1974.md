@@ -14,6 +14,7 @@ record_title: "Some observations on the A3 lines in Beowulf"
 record_year: "1974"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

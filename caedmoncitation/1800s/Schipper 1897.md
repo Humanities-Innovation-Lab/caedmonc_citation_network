@@ -14,6 +14,7 @@ record_title: "König Alfreds Übersetzung von Bedas Kirchengeschichte"
 record_year: "1897"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

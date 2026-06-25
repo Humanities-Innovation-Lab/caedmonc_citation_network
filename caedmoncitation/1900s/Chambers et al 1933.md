@@ -14,6 +14,7 @@ record_title: "The Exeter book of Old English poetry"
 record_year: "1933"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

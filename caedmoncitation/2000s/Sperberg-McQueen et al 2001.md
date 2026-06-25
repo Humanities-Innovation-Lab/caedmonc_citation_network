@@ -14,6 +14,7 @@ record_title: "URL: <http://www.tei-c.org/P4X/>. Accessed: 10 November 2004"
 record_year: "2001"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

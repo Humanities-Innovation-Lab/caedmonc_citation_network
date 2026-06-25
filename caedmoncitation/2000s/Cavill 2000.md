@@ -14,6 +14,7 @@ record_title: "The manuscripts of Cædmon’s Hymn"
 record_year: "2000"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

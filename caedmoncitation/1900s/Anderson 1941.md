@@ -14,6 +14,7 @@ record_title: "Old English material in the Leningrad manuscript of Bede’s eccl
 record_year: "1941"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

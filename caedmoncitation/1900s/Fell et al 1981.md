@@ -14,6 +14,7 @@ record_title: "Hild Abbess of Streonæshalch"
 record_year: "1981"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

@@ -14,6 +14,7 @@ record_title: "Anglo-Saxon poetry: an anthology of Old English poems in prose tr
 record_year: "1982"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

@@ -14,6 +14,7 @@ record_title: "Birthing bishops and fathering poets: Bede, Hild, and the relatio
 record_year: "1994"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

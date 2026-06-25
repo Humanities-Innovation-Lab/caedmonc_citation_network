@@ -14,6 +14,7 @@ record_title: "“Kiernan, Kevin S. 2015. Electronic Beowulf - Fourth Edition. h
 record_year: "2016"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

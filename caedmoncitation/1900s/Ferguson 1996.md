@@ -14,6 +14,7 @@ record_title: "The Norton anthology of poetry"
 record_year: "1996"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

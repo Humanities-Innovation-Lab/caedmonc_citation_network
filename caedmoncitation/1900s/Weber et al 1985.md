@@ -14,6 +14,7 @@ record_title: "Biblia sacra iuxta Vulgatam versionem"
 record_year: "1985"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

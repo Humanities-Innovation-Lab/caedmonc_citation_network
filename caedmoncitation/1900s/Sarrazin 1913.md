@@ -14,6 +14,7 @@ record_title: "Von Kädmon bis Kynewulf: eine litterarhistorische Studie"
 record_year: "1913"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

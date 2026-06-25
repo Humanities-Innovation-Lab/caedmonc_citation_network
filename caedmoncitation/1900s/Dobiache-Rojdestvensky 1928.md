@@ -14,6 +14,7 @@ record_title: "Un manuscrit de Bède à Léningrad"
 record_year: "1928"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

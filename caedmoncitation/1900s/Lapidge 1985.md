@@ -14,6 +14,7 @@ record_title: "Aldhelm, the poetic works"
 record_year: "1985"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

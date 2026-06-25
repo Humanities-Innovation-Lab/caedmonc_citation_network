@@ -14,6 +14,7 @@ record_title: "Eine altenglische Übersetzung von Alcuins De virtutibus et vitii
 record_year: "1981"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

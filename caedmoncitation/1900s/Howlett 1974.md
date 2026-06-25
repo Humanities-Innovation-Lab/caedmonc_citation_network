@@ -14,6 +14,7 @@ record_title: "The Theology of Cædmon’s Hymn"
 record_year: "1974"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

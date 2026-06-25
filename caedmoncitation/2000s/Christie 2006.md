@@ -14,6 +14,7 @@ record_title: "Circolwyrde 2006: New electronic resources for Anglo-Saxon studie
 record_year: "2006"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

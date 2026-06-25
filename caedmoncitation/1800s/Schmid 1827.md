@@ -14,6 +14,7 @@ record_title: "Die Sprache der Angelsachsen"
 record_year: "1827"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

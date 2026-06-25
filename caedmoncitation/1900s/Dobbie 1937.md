@@ -14,6 +14,7 @@ record_title: "The manuscripts of Cædmon’s Hymn and Bede’s Death Song with 
 record_year: "1937"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

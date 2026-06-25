@@ -14,6 +14,7 @@ record_title: "Altenglisches etymologisches Wörterbuch"
 record_year: "1974"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

@@ -14,6 +14,7 @@ record_title: "Zwei neue Handschriften von Cædmons Hymnus"
 record_year: "1906"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

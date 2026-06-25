@@ -14,6 +14,7 @@ record_title: "Cædmon und Muhammed"
 record_year: "1983"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

@@ -14,6 +14,7 @@ record_title: "The date of the Leningrad Bede"
 record_year: "1961"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

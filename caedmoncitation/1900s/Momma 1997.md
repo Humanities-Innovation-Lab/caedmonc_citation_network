@@ -14,6 +14,7 @@ record_title: "The composition of Old English poetry"
 record_year: "1997"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

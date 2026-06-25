@@ -14,6 +14,7 @@ record_title: "Catalogue of the Library of Syon Monastery, Isleworth"
 record_year: "1898"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

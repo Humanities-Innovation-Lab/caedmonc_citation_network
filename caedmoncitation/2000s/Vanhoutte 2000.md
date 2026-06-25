@@ -14,6 +14,7 @@ record_title: "A linkemic approach to textual variation"
 record_year: "2000"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

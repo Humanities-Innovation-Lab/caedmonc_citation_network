@@ -14,6 +14,7 @@ record_title: "Catalogue de manuscrits des la Bibliothèque Royale de Belgique"
 record_year: "1905"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

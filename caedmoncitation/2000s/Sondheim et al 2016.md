@@ -14,6 +14,7 @@ record_title: "Scholarly editions in print and on the screen: A theoretical comp
 record_year: "2016"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

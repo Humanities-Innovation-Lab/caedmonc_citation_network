@@ -14,6 +14,7 @@ record_title: "Scepen in Cædmons Hymnus Hs. N"
 record_year: "1912"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

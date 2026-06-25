@@ -14,6 +14,7 @@ record_title: "Altenglische Grammatik nach der angelsächsischen Grammatik von E
 record_year: "1965"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

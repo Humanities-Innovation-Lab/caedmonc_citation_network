@@ -14,6 +14,7 @@ record_title: "An onomastic allusion in Cædmon’s Hymn?"
 record_year: "1969"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

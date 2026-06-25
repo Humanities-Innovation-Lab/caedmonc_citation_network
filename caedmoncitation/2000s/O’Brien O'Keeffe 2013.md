@@ -14,6 +14,7 @@ record_title: "The architecture of Old English editions. In Probable truth: Edit
 record_year: "2013"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

@@ -14,6 +14,7 @@ record_title: "The battle of Brunanburh"
 record_year: "1938"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

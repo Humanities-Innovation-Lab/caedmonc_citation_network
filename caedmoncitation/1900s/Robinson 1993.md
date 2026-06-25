@@ -14,6 +14,7 @@ record_title: "The tomb of Beowulf and other essays on Old English"
 record_year: "1993"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

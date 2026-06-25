@@ -14,6 +14,7 @@ record_title: "Cædmon"
 record_year: "1972"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

@@ -14,6 +14,7 @@ record_title: "The story of Cædmon: Bede’s account of the first English poet"
 record_year: "1992"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

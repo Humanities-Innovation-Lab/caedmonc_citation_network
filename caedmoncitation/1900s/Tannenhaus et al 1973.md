@@ -14,6 +14,7 @@ record_title: "Concerning figures and tropes [De schematibus et tropis]"
 record_year: "1973"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

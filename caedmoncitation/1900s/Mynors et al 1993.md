@@ -14,6 +14,7 @@ record_title: "Catalogue of the manuscripts of Hereford Cathedral Library"
 record_year: "1993"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

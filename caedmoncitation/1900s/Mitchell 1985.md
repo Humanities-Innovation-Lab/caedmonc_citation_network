@@ -14,6 +14,7 @@ record_title: "Cædmon’s Hymn, line 1: what is the subject of scylun or its va
 record_year: "1985"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

@@ -14,6 +14,7 @@ record_title: "A catalogue of the manuscripts preserved in the Library of the Un
 record_year: "1980"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

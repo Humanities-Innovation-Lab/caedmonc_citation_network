@@ -14,6 +14,7 @@ record_title: "Descriptive catalogue of the manuscripts in the Hereford Cathedra
 record_year: "1927"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

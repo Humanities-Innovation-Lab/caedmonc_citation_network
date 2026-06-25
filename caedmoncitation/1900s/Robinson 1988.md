@@ -14,6 +14,7 @@ record_title: "Catalogue of dated and datable manuscripts c. 737-1600 in Cambrid
 record_year: "1988"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

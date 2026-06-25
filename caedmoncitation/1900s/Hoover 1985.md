@@ -14,6 +14,7 @@ record_title: "Evidence for primacy of alliteration in Old English metre"
 record_year: "1985"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

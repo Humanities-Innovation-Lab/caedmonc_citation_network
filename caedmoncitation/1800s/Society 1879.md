@@ -14,6 +14,7 @@ record_title: "Facsimiles of manuscripts and inscriptions"
 record_year: "1879"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

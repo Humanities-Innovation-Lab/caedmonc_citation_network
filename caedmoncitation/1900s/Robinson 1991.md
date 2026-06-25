@@ -14,6 +14,7 @@ record_title: "Old English verse texts from many sources: a comprehensive collec
 record_year: "1991"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

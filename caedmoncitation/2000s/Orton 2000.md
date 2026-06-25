@@ -14,6 +14,7 @@ record_title: "The transmission of Old English poetry"
 record_year: "2000"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

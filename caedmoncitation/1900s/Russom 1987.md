@@ -14,6 +14,7 @@ record_title: "Old English metre and linguistic theory"
 record_year: "1987"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

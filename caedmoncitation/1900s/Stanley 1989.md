@@ -14,6 +14,7 @@ record_title: "Notes on Old English poetry"
 record_year: "1989"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

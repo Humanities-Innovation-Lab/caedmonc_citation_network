@@ -14,6 +14,7 @@ record_title: "Whitby Abbey"
 record_year: "1995"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

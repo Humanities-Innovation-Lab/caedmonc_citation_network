@@ -14,6 +14,7 @@ record_title: "New formulas for old: Cædmon’s Hymn"
 record_year: "1995"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

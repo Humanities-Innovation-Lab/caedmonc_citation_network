@@ -14,6 +14,7 @@ record_title: "The Bede “signature” in the Leningrad colophon"
 record_year: "1961"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

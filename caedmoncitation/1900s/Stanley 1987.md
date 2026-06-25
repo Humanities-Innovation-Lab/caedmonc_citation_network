@@ -14,6 +14,7 @@ record_title: "A collection of papers with emphasis on Old English literature"
 record_year: "1987"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

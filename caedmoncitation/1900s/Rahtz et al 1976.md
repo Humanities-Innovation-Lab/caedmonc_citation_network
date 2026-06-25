@@ -14,6 +14,7 @@ record_title: "Monastic sites, appendix C: the building plan of the Anglo-Saxon 
 record_year: "1976"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

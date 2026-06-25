@@ -14,6 +14,7 @@ record_title: "The complete Corpus of Old English in machine readable form (TEI 
 record_year: "1994"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

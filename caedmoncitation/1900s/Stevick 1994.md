@@ -14,6 +14,7 @@ record_title: "The earliest Irish and English bookarts, visual and poetic forms 
 record_year: "1994"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

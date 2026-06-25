@@ -14,6 +14,7 @@ record_title: "Cædmon’s Hymn: A multi-media study, edition and archive (revie
 record_year: "2007"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

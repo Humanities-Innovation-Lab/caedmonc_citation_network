@@ -14,6 +14,7 @@ record_title: "Catalogue of the manuscripts in the Cottonian library (Catalogus 
 record_year: "1984"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

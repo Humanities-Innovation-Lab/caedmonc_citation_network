@@ -14,6 +14,7 @@ record_title: "Muhammad: a biography of the prophet"
 record_year: "1992"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

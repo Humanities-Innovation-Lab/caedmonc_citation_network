@@ -14,6 +14,7 @@ record_title: "Insular, Anglo-Saxon, and early Anglo-Norman manuscript art at Co
 record_year: "1997"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

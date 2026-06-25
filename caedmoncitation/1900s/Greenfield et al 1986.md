@@ -14,6 +14,7 @@ record_title: "A new critical history of Old English literature"
 record_year: "1986"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

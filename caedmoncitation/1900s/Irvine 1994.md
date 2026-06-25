@@ -14,6 +14,7 @@ record_title: "The making of textual culture: “Grammatica” and literary theo
 record_year: "1994"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

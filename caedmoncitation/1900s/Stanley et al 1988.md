@@ -14,6 +14,7 @@ record_title: "Rhymes in English medieval verse from Old English to Middle Engli
 record_year: "1988"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

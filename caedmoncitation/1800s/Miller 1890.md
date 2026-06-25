@@ -14,6 +14,7 @@ record_title: "The Old English version of Bede’s ecclesiastical history of the
 record_year: "1890"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

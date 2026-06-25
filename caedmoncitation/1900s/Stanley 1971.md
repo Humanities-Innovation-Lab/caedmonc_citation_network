@@ -14,6 +14,7 @@ record_title: "Studies in the prosaic vocabulary of Old English verse"
 record_year: "1971"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

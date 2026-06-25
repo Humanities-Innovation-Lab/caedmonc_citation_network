@@ -14,6 +14,7 @@ record_title: "The Saxon monastery of Whitby"
 record_year: "1943"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

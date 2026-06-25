@@ -14,6 +14,7 @@ record_title: "Bede’s blush: postcards from Bali, Bombay, and Palo Alto"
 record_year: "1994"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

@@ -14,6 +14,7 @@ record_title: "Technologies of Empire"
 record_year: "2012"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

@@ -14,6 +14,7 @@ record_title: "A hand-list of Bede manuscripts"
 record_year: "1943"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

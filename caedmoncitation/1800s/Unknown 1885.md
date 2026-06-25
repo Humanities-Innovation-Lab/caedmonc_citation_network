@@ -14,6 +14,7 @@ record_title: "Catalogue général des manuscrits des bibliothèques publiques d
 record_year: "1885"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

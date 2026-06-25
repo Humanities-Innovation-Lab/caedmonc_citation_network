@@ -14,6 +14,7 @@ record_title: "Beowulf and the appositive style"
 record_year: "1985"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

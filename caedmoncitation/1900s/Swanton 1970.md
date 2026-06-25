@@ -14,6 +14,7 @@ record_title: "The Dream of the Rood"
 record_year: "1970"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

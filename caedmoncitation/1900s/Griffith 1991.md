@@ -14,6 +14,7 @@ record_title: "Poetic language and the Paris Psalter: the decay of the Old Engli
 record_year: "1991"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

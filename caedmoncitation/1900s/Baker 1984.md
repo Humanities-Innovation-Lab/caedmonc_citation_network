@@ -14,6 +14,7 @@ record_title: "A little known variant text of the Old English metrical Psalms"
 record_year: "1984"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

@@ -14,6 +14,7 @@ record_title: "Eight Old English poems"
 record_year: "2001"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

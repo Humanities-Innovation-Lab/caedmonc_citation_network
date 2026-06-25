@@ -14,6 +14,7 @@ record_title: "A concise Anglo-Saxon dictionary"
 record_year: "1984"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

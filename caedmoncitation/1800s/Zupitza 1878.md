@@ -14,6 +14,7 @@ record_title: "Über den Hymnus Cädmons"
 record_year: "1878"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

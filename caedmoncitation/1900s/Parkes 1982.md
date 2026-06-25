@@ -14,6 +14,7 @@ record_title: "The scriptorium of Wearmouth-Jarrow"
 record_year: "1982"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

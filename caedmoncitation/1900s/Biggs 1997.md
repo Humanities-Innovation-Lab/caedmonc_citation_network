@@ -14,6 +14,7 @@ record_title: "Deor’s threatened “blame poem”"
 record_year: "1997"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

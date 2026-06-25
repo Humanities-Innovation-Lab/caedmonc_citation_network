@@ -14,6 +14,7 @@ record_title: "The poetic art of Aldhelm"
 record_year: "1994"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

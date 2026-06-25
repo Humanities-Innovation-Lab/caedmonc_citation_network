@@ -14,6 +14,7 @@ record_title: "Visible song: transitional literacy in Old English verse"
 record_year: "1990"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

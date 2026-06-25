@@ -14,6 +14,7 @@ record_title: "Muhammad: his life based on the earliest sources"
 record_year: "1983"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

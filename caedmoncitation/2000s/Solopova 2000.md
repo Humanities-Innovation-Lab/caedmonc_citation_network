@@ -14,6 +14,7 @@ record_title: "The general prologue on CD-ROM"
 record_year: "2000"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

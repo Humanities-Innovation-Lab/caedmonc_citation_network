@@ -14,6 +14,7 @@ record_title: "Venerabilis Bedae historiae ecclesiasticae gentis anglorum libri 
 record_year: "1878"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

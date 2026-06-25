@@ -14,6 +14,7 @@ record_title: "[Review of] Peter Hunter Blair, The Moore Bede []"
 record_year: "1964"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

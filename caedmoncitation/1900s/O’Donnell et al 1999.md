@@ -14,6 +14,7 @@ record_title: "An undocumented method of filtering and translating structural SG
 record_year: "1999"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

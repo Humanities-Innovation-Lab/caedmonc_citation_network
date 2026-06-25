@@ -14,6 +14,7 @@ record_title: "The accuracy of the St. Petersburg Bede"
 record_year: "2002"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

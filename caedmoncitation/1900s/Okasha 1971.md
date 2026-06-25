@@ -14,6 +14,7 @@ record_title: "Hand-list of Anglo-Saxon non-runic inscriptions"
 record_year: "1971"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

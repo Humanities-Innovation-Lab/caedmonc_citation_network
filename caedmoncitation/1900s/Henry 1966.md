@@ -14,6 +14,7 @@ record_title: "The origin of Cædmon’s Hymn"
 record_year: "1966"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

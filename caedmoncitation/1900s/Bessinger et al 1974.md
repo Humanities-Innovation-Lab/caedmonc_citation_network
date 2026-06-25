@@ -14,6 +14,7 @@ record_title: "Homage to Cædmon and others: a Beowulfian praise song"
 record_year: "1974"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

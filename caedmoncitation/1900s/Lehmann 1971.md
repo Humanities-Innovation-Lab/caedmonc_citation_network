@@ -14,6 +14,7 @@ record_title: "The development of Germanic verse form"
 record_year: "1971"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

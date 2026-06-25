@@ -14,6 +14,7 @@ record_title: "Cædmon and the Germanic tradition"
 record_year: "1992"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

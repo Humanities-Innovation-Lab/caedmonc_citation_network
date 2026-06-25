@@ -14,6 +14,7 @@ record_title: "Studies in the language of Three Northumbrian Poems. Unpublished 
 record_year: "2001"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

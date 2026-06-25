@@ -14,6 +14,7 @@ record_title: "The Carolingian lord: semantic studies on four Old High German wo
 record_year: "1965"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

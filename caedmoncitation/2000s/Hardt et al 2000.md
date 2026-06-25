@@ -14,6 +14,7 @@ record_title: "Empire"
 record_year: "2000"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

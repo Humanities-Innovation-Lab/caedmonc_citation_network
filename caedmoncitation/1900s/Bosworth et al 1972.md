@@ -14,6 +14,7 @@ record_title: "An Anglo-Saxon dictionary based on the manuscript collections of 
 record_year: "1972"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

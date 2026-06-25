@@ -14,6 +14,7 @@ record_title: "Catalogue des manuscrits conservés à Tournai bibliothèque de l
 record_year: "1950"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

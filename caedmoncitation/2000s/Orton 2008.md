@@ -14,6 +14,7 @@ record_title: "Cædmon’s Hymn: A multi-media study, edition and archive. JEGP 
 record_year: "2008"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

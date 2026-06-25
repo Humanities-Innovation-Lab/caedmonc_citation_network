@@ -14,6 +14,7 @@ record_title: "Laurence Nowell, William Lambarde, and the laws of the Anglo-Saxo
 record_year: "1996"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

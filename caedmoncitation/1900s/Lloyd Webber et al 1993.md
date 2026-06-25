@@ -14,6 +14,7 @@ record_title: "Jesus Christ superstar"
 record_year: "1993"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

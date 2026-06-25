@@ -14,6 +14,7 @@ record_title: "Homonymy and polysemy in Old English: a problem for lexicographer
 record_year: "1985"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

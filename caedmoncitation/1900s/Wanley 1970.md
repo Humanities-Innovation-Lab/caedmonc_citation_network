@@ -14,6 +14,7 @@ record_title: "Librorum vett. septentrionalium catalogus"
 record_year: "1970"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

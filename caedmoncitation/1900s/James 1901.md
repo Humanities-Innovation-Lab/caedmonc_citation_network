@@ -14,6 +14,7 @@ record_title: "The western manuscripts in the library of Trinity College, Cambri
 record_year: "1901"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

@@ -14,6 +14,7 @@ record_title: "Language and history in early Britain: a chronological survey of 
 record_year: "1953"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

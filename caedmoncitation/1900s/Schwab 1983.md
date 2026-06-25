@@ -14,6 +14,7 @@ record_title: "The miracles of Cædmon—revisited"
 record_year: "1983"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

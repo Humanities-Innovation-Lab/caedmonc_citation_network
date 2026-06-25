@@ -14,6 +14,7 @@ record_title: "Towards dating the Leningrad “Bede.”"
 record_year: "1962"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

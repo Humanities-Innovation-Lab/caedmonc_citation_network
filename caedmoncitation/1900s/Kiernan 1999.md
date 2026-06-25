@@ -14,6 +14,7 @@ record_title: "The electronic Beowulf [Electronic text]"
 record_year: "1999"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

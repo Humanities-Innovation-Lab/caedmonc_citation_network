@@ -14,6 +14,7 @@ record_title: "Where is the editor? Resistance in the creation of an electronic 
 record_year: "1999"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

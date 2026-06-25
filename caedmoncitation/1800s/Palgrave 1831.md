@@ -14,6 +14,7 @@ record_title: "History of England: Anglo-Saxon period"
 record_year: "1831"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

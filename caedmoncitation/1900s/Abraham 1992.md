@@ -14,6 +14,7 @@ record_title: "Cædmon’s Hymn and the Geþwærnysse (fitness) of things"
 record_year: "1992"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

@@ -14,6 +14,7 @@ record_title: "Die christlichen Elemente im Beowulf"
 record_year: "1911"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

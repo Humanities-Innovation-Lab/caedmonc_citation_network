@@ -14,6 +14,7 @@ record_title: "A guide to Old English"
 record_year: "2001"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

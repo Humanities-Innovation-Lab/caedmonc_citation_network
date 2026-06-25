@@ -14,6 +14,7 @@ record_title: "Further manuscripts of Bede’s “Historia ecclesiastica,” of 
 record_year: "1975"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

@@ -14,6 +14,7 @@ record_title: "Cædmon’s Hymn"
 record_year: "1968"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

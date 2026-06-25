@@ -14,6 +14,7 @@ record_title: "Desire for origins: new language, Old English and teaching the tr
 record_year: "1990"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

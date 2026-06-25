@@ -14,6 +14,7 @@ record_title: "Ueber den Hymnus Cædmons"
 record_year: "1876"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

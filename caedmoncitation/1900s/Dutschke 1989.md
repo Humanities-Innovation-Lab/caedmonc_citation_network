@@ -14,6 +14,7 @@ record_title: "Guide to medieval and renaissance manuscripts in the Huntington L
 record_year: "1989"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

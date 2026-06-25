@@ -14,6 +14,7 @@ record_title: "Anglo-Saxonica in Hereford Cathedral Library"
 record_year: "1934"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

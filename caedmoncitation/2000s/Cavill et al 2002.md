@@ -14,6 +14,7 @@ record_title: "Bede and Cædmon’s Hymn"
 record_year: "2002"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

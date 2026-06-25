@@ -14,6 +14,7 @@ record_title: "An anthology of 572 lines of Old English short poems plus The Bat
 record_year: "2002"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

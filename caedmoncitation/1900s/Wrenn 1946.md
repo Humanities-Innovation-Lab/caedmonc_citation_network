@@ -14,6 +14,7 @@ record_title: "The poetry of Cædmon (Sir Israel Gollancz Memorial Lecture)"
 record_year: "1946"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

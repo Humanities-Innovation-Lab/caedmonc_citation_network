@@ -14,6 +14,7 @@ record_title: "Bede’s ecclesiastical history of the English people"
 record_year: "1969"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

@@ -14,6 +14,7 @@ record_title: "URL: <http://www.iath.virginia.edu/public/jjm2f/rationale.html>. 
 record_year: "1995"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

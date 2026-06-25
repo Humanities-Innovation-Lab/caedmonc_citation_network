@@ -14,6 +14,7 @@ record_title: "Bibeldichtung: Studien zur Geschichte der epischen Bibelparaphras
 record_year: "1975"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

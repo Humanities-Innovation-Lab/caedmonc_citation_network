@@ -14,6 +14,7 @@ record_title: "European literature and the Latin Middle Ages"
 record_year: "1990"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

@@ -14,6 +14,7 @@ record_title: "The Tanner Bede: the Old English version of Bede’s Historia ecc
 record_year: "1992"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

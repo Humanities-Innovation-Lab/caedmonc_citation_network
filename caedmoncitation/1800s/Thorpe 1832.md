@@ -14,6 +14,7 @@ record_title: "Cædmon manuscript: Cædmon’s metrical paraphrase of parts of t
 record_year: "1832"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

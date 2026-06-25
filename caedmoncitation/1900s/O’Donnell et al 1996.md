@@ -14,6 +14,7 @@ record_title: "A Northumbrian version of “Cædmon’s Hymn” (eordu recension
 record_year: "1996"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

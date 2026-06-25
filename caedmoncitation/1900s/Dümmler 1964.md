@@ -14,6 +14,7 @@ record_title: "Poetae latini aevi Carolini"
 record_year: "1964"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

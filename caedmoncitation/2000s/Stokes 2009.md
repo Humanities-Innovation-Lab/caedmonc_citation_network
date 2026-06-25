@@ -14,6 +14,7 @@ record_title: "O’Donnell, Daniel Paul. 2005. Cædmon’s Hymn: A multi-media s
 record_year: "2009"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

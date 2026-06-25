@@ -14,6 +14,7 @@ record_title: "Handbook of the International Phonetic Association: a guide to th
 record_year: "1999"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

@@ -14,6 +14,7 @@ record_title: "Towards a post-critical edition: theory, hypertext, and the prese
 record_year: "1994"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

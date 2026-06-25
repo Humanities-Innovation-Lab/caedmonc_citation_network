@@ -14,6 +14,7 @@ record_title: "Beowulf and the Beowulf manuscript"
 record_year: "1996"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

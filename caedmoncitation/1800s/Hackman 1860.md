@@ -14,6 +14,7 @@ record_title: "Codices Thomae Tanneri complectens"
 record_year: "1860"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

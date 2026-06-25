@@ -14,6 +14,7 @@ record_title: "Two lives of St. Cuthbert: a life by an anonymous monk of Lindisf
 record_year: "1940"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

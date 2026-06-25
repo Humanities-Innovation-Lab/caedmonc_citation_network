@@ -14,6 +14,7 @@ record_title: "Cædmon’s Hymn : A Multimedia Study, Archive and Edition. Vol. 
 record_year: "2005"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

@@ -14,6 +14,7 @@ record_title: "König Aelfred und seine Stelle in der Geschichte Englands"
 record_year: "1851"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

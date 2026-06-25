@@ -14,6 +14,7 @@ record_title: "Altgermanische Metrik"
 record_year: "1893"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content

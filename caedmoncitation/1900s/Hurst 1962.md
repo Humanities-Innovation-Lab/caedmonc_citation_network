@@ -14,6 +14,7 @@ record_title: "Bedae Venerabilis in primam partem Samuhelis libri IIII"
 record_year: "1962"
 callnumber: ""
 autoupdate: true
+pdf: false
 ---
 
 # Supplied Content
