@@ -1,20 +1,20 @@
 ---
-citekey: "Pope2001EightOldEnglishPoems"
-aliases: 
-  - "J. C. Pope, R. D. Fulk 2001 Eight Old English Poems"
-  - "J. C. Pope, R. D. Fulk 2001"
-  - "J. C. Pope, R. D. Fulk"
-  - "Eight Old English Poems"
-  - "Pope2001EightOldEnglishPoems"
-type: "book"
-zotero_key: "CSRWN9JK"
-zotero_url: "https://www.zotero.org/humanitiesinnovationlab/items/CSRWN9JK"
-responsible_party: "J. C. Pope, R. D. Fulk"
-record_title: "Eight Old English poems"
+citekey: Pope2001EightOldEnglishPoems
+aliases:
+  - J. C. Pope, R. D. Fulk 2001 Eight Old English Poems
+  - J. C. Pope, R. D. Fulk 2001
+  - J. C. Pope, R. D. Fulk
+  - Eight Old English Poems
+  - Pope2001EightOldEnglishPoems
+type: book
+zotero_key: CSRWN9JK
+zotero_url: https://www.zotero.org/humanitiesinnovationlab/items/CSRWN9JK
+responsible_party: J. C. Pope, R. D. Fulk
+record_title: Eight Old English poems
 record_year: "2001"
 callnumber: ""
 autoupdate: true
-pdf: false
+pdf: true
 ---
 
 # Supplied Content

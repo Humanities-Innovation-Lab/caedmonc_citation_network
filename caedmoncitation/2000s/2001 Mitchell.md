@@ -1,20 +1,20 @@
 ---
-citekey: "Mitchell2001AGuideToOld"
-aliases: 
-  - "B. Mitchell 2001 A Guide To Old"
-  - "B. Mitchell 2001"
-  - "B. Mitchell"
-  - "A Guide To Old"
-  - "Mitchell2001AGuideToOld"
-type: "book"
-zotero_key: "4PC6V536"
-zotero_url: "https://www.zotero.org/humanitiesinnovationlab/items/4PC6V536"
-responsible_party: "B. Mitchell"
-record_title: "A guide to Old English"
+citekey: Mitchell2001AGuideToOld
+aliases:
+  - B. Mitchell 2001 A Guide To Old
+  - B. Mitchell 2001
+  - B. Mitchell
+  - A Guide To Old
+  - Mitchell2001AGuideToOld
+type: book
+zotero_key: 4PC6V536
+zotero_url: https://www.zotero.org/humanitiesinnovationlab/items/4PC6V536
+responsible_party: B. Mitchell
+record_title: A guide to Old English
 record_year: "2001"
 callnumber: ""
 autoupdate: true
-pdf: false
+pdf: true
 ---
 
 # Supplied Content

@@ -1,20 +1,20 @@
 ---
-citekey: "Vanhoutte2000ALinkemicApproachTo"
-aliases: 
-  - "E. Vanhoutte 2000 A Linkemic Approach To"
-  - "E. Vanhoutte 2000"
-  - "E. Vanhoutte"
-  - "A Linkemic Approach To"
-  - "Vanhoutte2000ALinkemicApproachTo"
-type: "bookSection"
-zotero_key: "2A4CURBC"
-zotero_url: "https://www.zotero.org/humanitiesinnovationlab/items/2A4CURBC"
-responsible_party: "E. Vanhoutte"
-record_title: "A linkemic approach to textual variation"
+citekey: Vanhoutte2000ALinkemicApproachTo
+aliases:
+  - E. Vanhoutte 2000 A Linkemic Approach To
+  - E. Vanhoutte 2000
+  - E. Vanhoutte
+  - A Linkemic Approach To
+  - Vanhoutte2000ALinkemicApproachTo
+type: bookSection
+zotero_key: 2A4CURBC
+zotero_url: https://www.zotero.org/humanitiesinnovationlab/items/2A4CURBC
+responsible_party: E. Vanhoutte
+record_title: A linkemic approach to textual variation
 record_year: "2000"
 callnumber: ""
 autoupdate: true
-pdf: false
+pdf: true
 ---
 
 # Supplied Content

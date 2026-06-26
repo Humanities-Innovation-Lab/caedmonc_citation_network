@@ -1,20 +1,20 @@
 ---
-citekey: "Conner2007CædmonSHymnA"
-aliases: 
-  - "Patrick W. Conner 2007 Cædmon S Hymn A"
-  - "Patrick W. Conner 2007"
-  - "Patrick W. Conner"
-  - "Cædmon S Hymn A"
-  - "Conner2007CædmonSHymnA"
-type: "book"
-zotero_key: "KX32XCUB"
-zotero_url: "https://www.zotero.org/humanitiesinnovationlab/items/KX32XCUB"
-responsible_party: "Patrick W. Conner"
+citekey: Conner2007CædmonSHymnA
+aliases:
+  - Patrick W. Conner 2007 Cædmon S Hymn A
+  - Patrick W. Conner 2007
+  - Patrick W. Conner
+  - Cædmon S Hymn A
+  - Conner2007CædmonSHymnA
+type: book
+zotero_key: KX32XCUB
+zotero_url: https://www.zotero.org/humanitiesinnovationlab/items/KX32XCUB
+responsible_party: Patrick W. Conner
 record_title: "Cædmon’s Hymn: A multi-media study, edition and archive (review). Textual Cultures: Texts, Contexts, Interpretation 2.2: 139–42"
 record_year: "2007"
 callnumber: ""
 autoupdate: true
-pdf: false
+pdf: true
 ---
 
 # Supplied Content

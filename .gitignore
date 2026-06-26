@@ -1,0 +1,9 @@
+# macOS junk
+.DS_Store
+
+# PDFs are stored locally on each person's computer, not in the repo.
+# The notes' `pdf: true/false` field tracks who has which PDF.
+caedmoncitation/2000s-pdfs/
+
+# Obsidian per-machine workspace state
+.obsidian/workspace.json

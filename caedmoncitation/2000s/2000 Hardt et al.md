@@ -1,20 +1,20 @@
 ---
-citekey: "Hardt2000Empire"
-aliases: 
-  - "Michael Hardt, Antonio Negri 2000 Empire"
-  - "Michael Hardt, Antonio Negri 2000"
-  - "Michael Hardt, Antonio Negri"
-  - "Empire"
-  - "Hardt2000Empire"
-type: "book"
-zotero_key: "V8QKTPHF"
-zotero_url: "https://www.zotero.org/humanitiesinnovationlab/items/V8QKTPHF"
-responsible_party: "Michael Hardt, Antonio Negri"
-record_title: "Empire"
+citekey: Hardt2000Empire
+aliases:
+  - Michael Hardt, Antonio Negri 2000 Empire
+  - Michael Hardt, Antonio Negri 2000
+  - Michael Hardt, Antonio Negri
+  - Empire
+  - Hardt2000Empire
+type: book
+zotero_key: V8QKTPHF
+zotero_url: https://www.zotero.org/humanitiesinnovationlab/items/V8QKTPHF
+responsible_party: Michael Hardt, Antonio Negri
+record_title: Empire
 record_year: "2000"
 callnumber: ""
 autoupdate: true
-pdf: false
+pdf: true
 ---
 
 # Supplied Content
