@@ -1,20 +1,20 @@
 ---
-citekey: "Dobbie1937TheManuscriptsOfCædmon"
-aliases: 
-  - "E. V. K. Dobbie 1937 The Manuscripts Of Cædmon"
-  - "E. V. K. Dobbie 1937"
-  - "E. V. K. Dobbie"
-  - "The Manuscripts Of Cædmon"
-  - "Dobbie1937TheManuscriptsOfCædmon"
-type: "book"
-zotero_key: "XBK3285U"
-zotero_url: "https://www.zotero.org/humanitiesinnovationlab/items/XBK3285U"
-responsible_party: "E. V. K. Dobbie"
-record_title: "The manuscripts of Cædmon’s Hymn and Bede’s Death Song with a critical text of the Epistola Cuthberti de obitu Bedæ"
+citekey: Dobbie1937TheManuscriptsOfCædmon
+aliases:
+  - E. V. K. Dobbie 1937 The Manuscripts Of Cædmon
+  - E. V. K. Dobbie 1937
+  - E. V. K. Dobbie
+  - The Manuscripts Of Cædmon
+  - Dobbie1937TheManuscriptsOfCædmon
+type: book
+zotero_key: XBK3285U
+zotero_url: https://www.zotero.org/humanitiesinnovationlab/items/XBK3285U
+responsible_party: E. V. K. Dobbie
+record_title: The manuscripts of Cædmon’s Hymn and Bede’s Death Song with a critical text of the Epistola Cuthberti de obitu Bedæ
 record_year: "1937"
 callnumber: ""
 autoupdate: true
-pdf: false
+pdf: true
 ---
 
 # Supplied Content

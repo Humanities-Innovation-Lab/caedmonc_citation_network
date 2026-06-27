@@ -1,20 +1,20 @@
 ---
-citekey: "Wuest1906ZweiNeueHandschriftenVon"
-aliases: 
-  - "P. Wuest 1906 Zwei Neue Handschriften Von"
-  - "P. Wuest 1906"
-  - "P. Wuest"
-  - "Zwei Neue Handschriften Von"
-  - "Wuest1906ZweiNeueHandschriftenVon"
-type: "journalArticle"
-zotero_key: "7RHIH4EP"
-zotero_url: "https://www.zotero.org/humanitiesinnovationlab/items/7RHIH4EP"
-responsible_party: "P. Wuest"
-record_title: "Zwei neue Handschriften von Cædmons Hymnus"
+citekey: Wuest1906ZweiNeueHandschriftenVon
+aliases:
+  - P. Wuest 1906 Zwei Neue Handschriften Von
+  - P. Wuest 1906
+  - P. Wuest
+  - Zwei Neue Handschriften Von
+  - Wuest1906ZweiNeueHandschriftenVon
+type: journalArticle
+zotero_key: 7RHIH4EP
+zotero_url: https://www.zotero.org/humanitiesinnovationlab/items/7RHIH4EP
+responsible_party: P. Wuest
+record_title: Zwei neue Handschriften von Cædmons Hymnus
 record_year: "1906"
 callnumber: ""
 autoupdate: true
-pdf: false
+pdf: true
 ---
 
 # Supplied Content

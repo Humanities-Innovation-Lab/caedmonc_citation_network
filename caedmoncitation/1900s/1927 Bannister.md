@@ -1,20 +1,20 @@
 ---
-citekey: "Bannister1927DescriptiveCatalogueOfThe"
-aliases: 
-  - "A. T. Bannister 1927 Descriptive Catalogue Of The"
-  - "A. T. Bannister 1927"
-  - "A. T. Bannister"
-  - "Descriptive Catalogue Of The"
-  - "Bannister1927DescriptiveCatalogueOfThe"
-type: "book"
-zotero_key: "T2GMUN8N"
-zotero_url: "https://www.zotero.org/humanitiesinnovationlab/items/T2GMUN8N"
-responsible_party: "A. T. Bannister"
-record_title: "Descriptive catalogue of the manuscripts in the Hereford Cathedral library"
+citekey: Bannister1927DescriptiveCatalogueOfThe
+aliases:
+  - A. T. Bannister 1927 Descriptive Catalogue Of The
+  - A. T. Bannister 1927
+  - A. T. Bannister
+  - Descriptive Catalogue Of The
+  - Bannister1927DescriptiveCatalogueOfThe
+type: book
+zotero_key: T2GMUN8N
+zotero_url: https://www.zotero.org/humanitiesinnovationlab/items/T2GMUN8N
+responsible_party: A. T. Bannister
+record_title: Descriptive catalogue of the manuscripts in the Hereford Cathedral library
 record_year: "1927"
 callnumber: ""
 autoupdate: true
-pdf: false
+pdf: true
 ---
 
 # Supplied Content

@@ -1,20 +1,20 @@
 ---
-citekey: "Campbell1938TheBattleOfBrunanburh"
-aliases: 
-  - "A. Campbell 1938 The Battle Of Brunanburh"
-  - "A. Campbell 1938"
-  - "A. Campbell"
-  - "The Battle Of Brunanburh"
-  - "Campbell1938TheBattleOfBrunanburh"
-type: "book"
-zotero_key: "IT2M6VUV"
-zotero_url: "https://www.zotero.org/humanitiesinnovationlab/items/IT2M6VUV"
-responsible_party: "A. Campbell"
-record_title: "The battle of Brunanburh"
+citekey: Campbell1938TheBattleOfBrunanburh
+aliases:
+  - A. Campbell 1938 The Battle Of Brunanburh
+  - A. Campbell 1938
+  - A. Campbell
+  - The Battle Of Brunanburh
+  - Campbell1938TheBattleOfBrunanburh
+type: book
+zotero_key: IT2M6VUV
+zotero_url: https://www.zotero.org/humanitiesinnovationlab/items/IT2M6VUV
+responsible_party: A. Campbell
+record_title: The battle of Brunanburh
 record_year: "1938"
 callnumber: ""
 autoupdate: true
-pdf: false
+pdf: true
 ---
 
 # Supplied Content
