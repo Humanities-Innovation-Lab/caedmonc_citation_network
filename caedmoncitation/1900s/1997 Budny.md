@@ -1,20 +1,20 @@
 ---
-citekey: "Budny1997InsularAngloSaxonAnd"
-aliases: 
-  - "M. Budny 1997 Insular Anglo Saxon And"
-  - "M. Budny 1997"
-  - "M. Budny"
-  - "Insular Anglo Saxon And"
-  - "Budny1997InsularAngloSaxonAnd"
-type: "book"
-zotero_key: "ZSZ88JDG"
-zotero_url: "https://www.zotero.org/humanitiesinnovationlab/items/ZSZ88JDG"
-responsible_party: "M. Budny"
+citekey: Budny1997InsularAngloSaxonAnd
+aliases:
+  - M. Budny 1997 Insular Anglo Saxon And
+  - M. Budny 1997
+  - M. Budny
+  - Insular Anglo Saxon And
+  - Budny1997InsularAngloSaxonAnd
+type: book
+zotero_key: ZSZ88JDG
+zotero_url: https://www.zotero.org/humanitiesinnovationlab/items/ZSZ88JDG
+responsible_party: M. Budny
 record_title: "Insular, Anglo-Saxon, and early Anglo-Norman manuscript art at Corpus Christi College, Cambridge: an illustrated catalogue"
 record_year: "1997"
 callnumber: ""
 autoupdate: true
-pdf: false
+pdf: true
 ---
 
 # Supplied Content

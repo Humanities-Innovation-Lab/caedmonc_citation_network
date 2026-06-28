@@ -1,20 +1,20 @@
 ---
-citekey: "Stevick1994TheEarliestIrishAnd"
-aliases: 
-  - "R. D. Stevick 1994 The Earliest Irish And"
-  - "R. D. Stevick 1994"
-  - "R. D. Stevick"
-  - "The Earliest Irish And"
-  - "Stevick1994TheEarliestIrishAnd"
-type: "book"
-zotero_key: "H8WGQ7CQ"
-zotero_url: "https://www.zotero.org/humanitiesinnovationlab/items/H8WGQ7CQ"
-responsible_party: "R. D. Stevick"
-record_title: "The earliest Irish and English bookarts, visual and poetic forms before A.D. 1000"
+citekey: Stevick1994TheEarliestIrishAnd
+aliases:
+  - R. D. Stevick 1994 The Earliest Irish And
+  - R. D. Stevick 1994
+  - R. D. Stevick
+  - The Earliest Irish And
+  - Stevick1994TheEarliestIrishAnd
+type: book
+zotero_key: H8WGQ7CQ
+zotero_url: https://www.zotero.org/humanitiesinnovationlab/items/H8WGQ7CQ
+responsible_party: R. D. Stevick
+record_title: The earliest Irish and English bookarts, visual and poetic forms before A.D. 1000
 record_year: "1994"
 callnumber: ""
 autoupdate: true
-pdf: false
+pdf: true
 ---
 
 # Supplied Content

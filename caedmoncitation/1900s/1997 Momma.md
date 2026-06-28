@@ -1,20 +1,20 @@
 ---
-citekey: "Momma1997TheCompositionOfOld"
-aliases: 
-  - "H. Momma 1997 The Composition Of Old"
-  - "H. Momma 1997"
-  - "H. Momma"
-  - "The Composition Of Old"
-  - "Momma1997TheCompositionOfOld"
-type: "book"
-zotero_key: "C8KAJSPT"
-zotero_url: "https://www.zotero.org/humanitiesinnovationlab/items/C8KAJSPT"
-responsible_party: "H. Momma"
-record_title: "The composition of Old English poetry"
+citekey: Momma1997TheCompositionOfOld
+aliases:
+  - H. Momma 1997 The Composition Of Old
+  - H. Momma 1997
+  - H. Momma
+  - The Composition Of Old
+  - Momma1997TheCompositionOfOld
+type: book
+zotero_key: C8KAJSPT
+zotero_url: https://www.zotero.org/humanitiesinnovationlab/items/C8KAJSPT
+responsible_party: H. Momma
+record_title: The composition of Old English poetry
 record_year: "1997"
 callnumber: ""
 autoupdate: true
-pdf: false
+pdf: true
 ---
 
 # Supplied Content

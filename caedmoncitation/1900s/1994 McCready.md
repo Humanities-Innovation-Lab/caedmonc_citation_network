@@ -1,20 +1,20 @@
 ---
-citekey: "McCready1994MiraclesAndTheVenerable"
-aliases: 
-  - "W. D. McCready 1994 Miracles And The Venerable"
-  - "W. D. McCready 1994"
-  - "W. D. McCready"
-  - "Miracles And The Venerable"
-  - "McCready1994MiraclesAndTheVenerable"
-type: "book"
-zotero_key: "I2IIN2I6"
-zotero_url: "https://www.zotero.org/humanitiesinnovationlab/items/I2IIN2I6"
-responsible_party: "W. D. McCready"
-record_title: "Miracles and the Venerable Bede"
+citekey: McCready1994MiraclesAndTheVenerable
+aliases:
+  - W. D. McCready 1994 Miracles And The Venerable
+  - W. D. McCready 1994
+  - W. D. McCready
+  - Miracles And The Venerable
+  - McCready1994MiraclesAndTheVenerable
+type: book
+zotero_key: I2IIN2I6
+zotero_url: https://www.zotero.org/humanitiesinnovationlab/items/I2IIN2I6
+responsible_party: W. D. McCready
+record_title: Miracles and the Venerable Bede
 record_year: "1994"
 callnumber: ""
 autoupdate: true
-pdf: false
+pdf: true
 ---
 
 # Supplied Content

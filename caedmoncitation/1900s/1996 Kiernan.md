@@ -1,20 +1,20 @@
 ---
-citekey: "Kiernan1996BeowulfAndTheBeowulf"
-aliases: 
-  - "K. S. Kiernan 1996 Beowulf And The Beowulf"
-  - "K. S. Kiernan 1996"
-  - "K. S. Kiernan"
-  - "Beowulf And The Beowulf"
-  - "Kiernan1996BeowulfAndTheBeowulf"
-type: "book"
-zotero_key: "GITESVMX"
-zotero_url: "https://www.zotero.org/humanitiesinnovationlab/items/GITESVMX"
-responsible_party: "K. S. Kiernan"
-record_title: "Beowulf and the Beowulf manuscript"
+citekey: Kiernan1996BeowulfAndTheBeowulf
+aliases:
+  - K. S. Kiernan 1996 Beowulf And The Beowulf
+  - K. S. Kiernan 1996
+  - K. S. Kiernan
+  - Beowulf And The Beowulf
+  - Kiernan1996BeowulfAndTheBeowulf
+type: book
+zotero_key: GITESVMX
+zotero_url: https://www.zotero.org/humanitiesinnovationlab/items/GITESVMX
+responsible_party: K. S. Kiernan
+record_title: Beowulf and the Beowulf manuscript
 record_year: "1996"
 callnumber: ""
 autoupdate: true
-pdf: false
+pdf: true
 ---
 
 # Supplied Content

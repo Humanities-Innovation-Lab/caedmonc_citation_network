@@ -1,20 +1,20 @@
 ---
-citekey: "Biggs1997DeorSThreatenedBlame"
-aliases: 
-  - "F. M. Biggs 1997 Deor S Threatened Blame"
-  - "F. M. Biggs 1997"
-  - "F. M. Biggs"
-  - "Deor S Threatened Blame"
-  - "Biggs1997DeorSThreatenedBlame"
-type: "journalArticle"
-zotero_key: "FKHNXS2C"
-zotero_url: "https://www.zotero.org/humanitiesinnovationlab/items/FKHNXS2C"
-responsible_party: "F. M. Biggs"
-record_title: "Deor’s threatened “blame poem”"
+citekey: Biggs1997DeorSThreatenedBlame
+aliases:
+  - F. M. Biggs 1997 Deor S Threatened Blame
+  - F. M. Biggs 1997
+  - F. M. Biggs
+  - Deor S Threatened Blame
+  - Biggs1997DeorSThreatenedBlame
+type: journalArticle
+zotero_key: FKHNXS2C
+zotero_url: https://www.zotero.org/humanitiesinnovationlab/items/FKHNXS2C
+responsible_party: F. M. Biggs
+record_title: Deor’s threatened “blame poem”
 record_year: "1997"
 callnumber: ""
 autoupdate: true
-pdf: false
+pdf: true
 ---
 
 # Supplied Content

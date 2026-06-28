@@ -1,20 +1,20 @@
 ---
-citekey: "Greetham1994TextualScholarshipAnIntroduction"
-aliases: 
-  - "D. C. Greetham 1994 Textual Scholarship An Introduction"
-  - "D. C. Greetham 1994"
-  - "D. C. Greetham"
-  - "Textual Scholarship An Introduction"
-  - "Greetham1994TextualScholarshipAnIntroduction"
-type: "book"
-zotero_key: "9GE7JPB7"
-zotero_url: "https://www.zotero.org/humanitiesinnovationlab/items/9GE7JPB7"
-responsible_party: "D. C. Greetham"
+citekey: Greetham1994TextualScholarshipAnIntroduction
+aliases:
+  - D. C. Greetham 1994 Textual Scholarship An Introduction
+  - D. C. Greetham 1994
+  - D. C. Greetham
+  - Textual Scholarship An Introduction
+  - Greetham1994TextualScholarshipAnIntroduction
+type: book
+zotero_key: 9GE7JPB7
+zotero_url: https://www.zotero.org/humanitiesinnovationlab/items/9GE7JPB7
+responsible_party: D. C. Greetham
 record_title: "Textual scholarship: an introduction"
 record_year: "1994"
 callnumber: ""
 autoupdate: true
-pdf: false
+pdf: true
 ---
 
 # Supplied Content

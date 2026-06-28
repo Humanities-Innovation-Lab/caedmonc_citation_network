@@ -1,20 +1,20 @@
 ---
-citekey: "Blockley1998CædmonSConjunctionCædmon"
-aliases: 
-  - "Mary Blockley 1998 Cædmon S Conjunction Cædmon"
-  - "Mary Blockley 1998"
-  - "Mary Blockley"
-  - "Cædmon S Conjunction Cædmon"
-  - "Blockley1998CædmonSConjunctionCædmon"
-type: "journalArticle"
-zotero_key: "5H9AV9R3"
-zotero_url: "https://www.zotero.org/humanitiesinnovationlab/items/5H9AV9R3"
-responsible_party: "Mary Blockley"
+citekey: Blockley1998CædmonSConjunctionCædmon
+aliases:
+  - Mary Blockley 1998 Cædmon S Conjunction Cædmon
+  - Mary Blockley 1998
+  - Mary Blockley
+  - Cædmon S Conjunction Cædmon
+  - Blockley1998CædmonSConjunctionCædmon
+type: journalArticle
+zotero_key: 5H9AV9R3
+zotero_url: https://www.zotero.org/humanitiesinnovationlab/items/5H9AV9R3
+responsible_party: Mary Blockley
 record_title: "Cædmon’s conjunction: Cædmon’s Hymn 7a revisited"
 record_year: "1998"
 callnumber: ""
 autoupdate: true
-pdf: false
+pdf: true
 ---
 
 # Supplied Content

@@ -1,20 +1,20 @@
 ---
-citekey: "Orchard1994ThePoeticArtOf"
-aliases: 
-  - "A. Orchard 1994 The Poetic Art Of"
-  - "A. Orchard 1994"
-  - "A. Orchard"
-  - "The Poetic Art Of"
-  - "Orchard1994ThePoeticArtOf"
-type: "book"
-zotero_key: "H3U7RGRA"
-zotero_url: "https://www.zotero.org/humanitiesinnovationlab/items/H3U7RGRA"
-responsible_party: "A. Orchard"
-record_title: "The poetic art of Aldhelm"
+citekey: Orchard1994ThePoeticArtOf
+aliases:
+  - A. Orchard 1994 The Poetic Art Of
+  - A. Orchard 1994
+  - A. Orchard
+  - The Poetic Art Of
+  - Orchard1994ThePoeticArtOf
+type: book
+zotero_key: H3U7RGRA
+zotero_url: https://www.zotero.org/humanitiesinnovationlab/items/H3U7RGRA
+responsible_party: A. Orchard
+record_title: The poetic art of Aldhelm
 record_year: "1994"
 callnumber: ""
 autoupdate: true
-pdf: false
+pdf: true
 ---
 
 # Supplied Content

@@ -1,20 +1,20 @@
 ---
-citekey: "Platt1995WhitbyAbbey"
-aliases: 
-  - "C. Platt 1995 Whitby Abbey"
-  - "C. Platt 1995"
-  - "C. Platt"
-  - "Whitby Abbey"
-  - "Platt1995WhitbyAbbey"
-type: "book"
-zotero_key: "I7KM47G8"
-zotero_url: "https://www.zotero.org/humanitiesinnovationlab/items/I7KM47G8"
-responsible_party: "C. Platt"
-record_title: "Whitby Abbey"
+citekey: Platt1995WhitbyAbbey
+aliases:
+  - C. Platt 1995 Whitby Abbey
+  - C. Platt 1995
+  - C. Platt
+  - Whitby Abbey
+  - Platt1995WhitbyAbbey
+type: book
+zotero_key: I7KM47G8
+zotero_url: https://www.zotero.org/humanitiesinnovationlab/items/I7KM47G8
+responsible_party: C. Platt
+record_title: Whitby Abbey
 record_year: "1995"
 callnumber: ""
 autoupdate: true
-pdf: false
+pdf: true
 ---
 
 # Supplied Content

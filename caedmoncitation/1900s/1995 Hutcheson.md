@@ -1,20 +1,20 @@
 ---
-citekey: "Hutcheson1995OldEnglishPoeticMetre"
-aliases: 
-  - "B. R. Hutcheson 1995 Old English Poetic Metre"
-  - "B. R. Hutcheson 1995"
-  - "B. R. Hutcheson"
-  - "Old English Poetic Metre"
-  - "Hutcheson1995OldEnglishPoeticMetre"
-type: "book"
-zotero_key: "DPI2589G"
-zotero_url: "https://www.zotero.org/humanitiesinnovationlab/items/DPI2589G"
-responsible_party: "B. R. Hutcheson"
-record_title: "Old English poetic metre"
+citekey: Hutcheson1995OldEnglishPoeticMetre
+aliases:
+  - B. R. Hutcheson 1995 Old English Poetic Metre
+  - B. R. Hutcheson 1995
+  - B. R. Hutcheson
+  - Old English Poetic Metre
+  - Hutcheson1995OldEnglishPoeticMetre
+type: book
+zotero_key: DPI2589G
+zotero_url: https://www.zotero.org/humanitiesinnovationlab/items/DPI2589G
+responsible_party: B. R. Hutcheson
+record_title: Old English poetic metre hutcheson
 record_year: "1995"
 callnumber: ""
 autoupdate: true
-pdf: false
+pdf: true
 ---
 
 # Supplied Content

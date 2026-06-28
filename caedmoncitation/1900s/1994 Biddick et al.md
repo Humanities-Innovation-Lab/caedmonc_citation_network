@@ -1,20 +1,20 @@
 ---
-citekey: "Biddick1994BedeSBlushPostcards"
-aliases: 
-  - "K. Biddick, J. H. van Engen 1994 Bede S Blush Postcards"
-  - "K. Biddick, J. H. van Engen 1994"
-  - "K. Biddick, J. H. van Engen"
-  - "Bede S Blush Postcards"
-  - "Biddick1994BedeSBlushPostcards"
-type: "bookSection"
-zotero_key: "7IUGQ24Z"
-zotero_url: "https://www.zotero.org/humanitiesinnovationlab/items/7IUGQ24Z"
-responsible_party: "K. Biddick, J. H. van Engen"
+citekey: Biddick1994BedeSBlushPostcards
+aliases:
+  - K. Biddick, J. H. van Engen 1994 Bede S Blush Postcards
+  - K. Biddick, J. H. van Engen 1994
+  - K. Biddick, J. H. van Engen
+  - Bede S Blush Postcards
+  - Biddick1994BedeSBlushPostcards
+type: bookSection
+zotero_key: 7IUGQ24Z
+zotero_url: https://www.zotero.org/humanitiesinnovationlab/items/7IUGQ24Z
+responsible_party: K. Biddick, J. H. van Engen
 record_title: "Bede’s blush: postcards from Bali, Bombay, and Palo Alto"
 record_year: "1994"
 callnumber: ""
 autoupdate: true
-pdf: false
+pdf: true
 ---
 
 # Supplied Content
