@@ -1,20 +1,20 @@
 ---
-citekey: "Dobbie1942TheAngloSaxonMinor"
-aliases: 
-  - "E. V. K. Dobbie 1942 The Anglo Saxon Minor"
-  - "E. V. K. Dobbie 1942"
-  - "E. V. K. Dobbie"
-  - "The Anglo Saxon Minor"
-  - "Dobbie1942TheAngloSaxonMinor"
-type: "book"
-zotero_key: "REA4V7JT"
-zotero_url: "https://www.zotero.org/humanitiesinnovationlab/items/REA4V7JT"
-responsible_party: "E. V. K. Dobbie"
-record_title: "The Anglo-Saxon minor poems"
+citekey: Dobbie1942TheAngloSaxonMinor
+aliases:
+  - E. V. K. Dobbie 1942 The Anglo Saxon Minor
+  - E. V. K. Dobbie 1942
+  - E. V. K. Dobbie
+  - The Anglo Saxon Minor
+  - Dobbie1942TheAngloSaxonMinor
+type: book
+zotero_key: REA4V7JT
+zotero_url: https://www.zotero.org/humanitiesinnovationlab/items/REA4V7JT
+responsible_party: E. V. K. Dobbie
+record_title: The Anglo-Saxon minor poems
 record_year: "1942"
 callnumber: ""
 autoupdate: true
-pdf: false
+pdf: true
 ---
 
 # Supplied Content

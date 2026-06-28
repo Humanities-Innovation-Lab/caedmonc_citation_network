@@ -1,20 +1,20 @@
 ---
-citekey: "Peers1943TheSaxonMonasteryOf"
-aliases: 
-  - "C. Peers, C. A. R. Radford 1943 The Saxon Monastery Of"
-  - "C. Peers, C. A. R. Radford 1943"
-  - "C. Peers, C. A. R. Radford"
-  - "The Saxon Monastery Of"
-  - "Peers1943TheSaxonMonasteryOf"
-type: "journalArticle"
-zotero_key: "42EMWBMN"
-zotero_url: "https://www.zotero.org/humanitiesinnovationlab/items/42EMWBMN"
-responsible_party: "C. Peers, C. A. R. Radford"
-record_title: "The Saxon monastery of Whitby"
+citekey: Peers1943TheSaxonMonasteryOf
+aliases:
+  - C. Peers, C. A. R. Radford 1943 The Saxon Monastery Of
+  - C. Peers, C. A. R. Radford 1943
+  - C. Peers, C. A. R. Radford
+  - The Saxon Monastery Of
+  - Peers1943TheSaxonMonasteryOf
+type: journalArticle
+zotero_key: 42EMWBMN
+zotero_url: https://www.zotero.org/humanitiesinnovationlab/items/42EMWBMN
+responsible_party: C. Peers, C. A. R. Radford
+record_title: The Saxon monastery of Whitby
 record_year: "1943"
 callnumber: ""
 autoupdate: true
-pdf: false
+pdf: true
 ---
 
 # Supplied Content

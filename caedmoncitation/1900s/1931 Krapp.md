@@ -1,20 +1,20 @@
 ---
-citekey: "Krapp1931TheJuniusManuscript"
-aliases: 
-  - "G. P. Krapp 1931 The Junius Manuscript"
-  - "G. P. Krapp 1931"
-  - "G. P. Krapp"
-  - "The Junius Manuscript"
-  - "Krapp1931TheJuniusManuscript"
-type: "book"
-zotero_key: "3XUJCSQR"
-zotero_url: "https://www.zotero.org/humanitiesinnovationlab/items/3XUJCSQR"
-responsible_party: "G. P. Krapp"
-record_title: "The Junius manuscript"
+citekey: Krapp1931TheJuniusManuscript
+aliases:
+  - G. P. Krapp 1931 The Junius Manuscript
+  - G. P. Krapp 1931
+  - G. P. Krapp
+  - The Junius Manuscript
+  - Krapp1931TheJuniusManuscript
+type: book
+zotero_key: 3XUJCSQR
+zotero_url: https://www.zotero.org/humanitiesinnovationlab/items/3XUJCSQR
+responsible_party: G. P. Krapp
+record_title: The Junius manuscript
 record_year: "1931"
 callnumber: ""
 autoupdate: true
-pdf: false
+pdf: true
 ---
 
 # Supplied Content
