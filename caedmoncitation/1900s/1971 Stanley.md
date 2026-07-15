@@ -1,20 +1,20 @@
 ---
-citekey: "Stanley1971StudiesInTheProsaic"
-aliases: 
-  - "E. G. Stanley 1971 Studies In The Prosaic"
-  - "E. G. Stanley 1971"
-  - "E. G. Stanley"
-  - "Studies In The Prosaic"
-  - "Stanley1971StudiesInTheProsaic"
-type: "journalArticle"
-zotero_key: "5UDE65KG"
-zotero_url: "https://www.zotero.org/humanitiesinnovationlab/items/5UDE65KG"
-responsible_party: "E. G. Stanley"
-record_title: "Studies in the prosaic vocabulary of Old English verse"
+citekey: Stanley1971StudiesInTheProsaic
+aliases:
+  - E. G. Stanley 1971 Studies In The Prosaic
+  - E. G. Stanley 1971
+  - E. G. Stanley
+  - Studies In The Prosaic
+  - Stanley1971StudiesInTheProsaic
+type: journalArticle
+zotero_key: 5UDE65KG
+zotero_url: https://www.zotero.org/humanitiesinnovationlab/items/5UDE65KG
+responsible_party: E. G. Stanley
+record_title: Studies in the prosaic vocabulary of Old English verse
 record_year: "1971"
 callnumber: ""
 autoupdate: true
-pdf: false
+pdf: true
 ---
 
 # Supplied Content

@@ -1,20 +1,20 @@
 ---
-citekey: "Jordan1973TowardsAnAfricanLiterature"
-aliases: 
-  - "A. C. Jordan 1973 Towards An African Literature"
-  - "A. C. Jordan 1973"
-  - "A. C. Jordan"
-  - "Towards An African Literature"
-  - "Jordan1973TowardsAnAfricanLiterature"
-type: "book"
-zotero_key: "9KIGS25V"
-zotero_url: "https://www.zotero.org/humanitiesinnovationlab/items/9KIGS25V"
-responsible_party: "A. C. Jordan"
+citekey: Jordan1973TowardsAnAfricanLiterature
+aliases:
+  - A. C. Jordan 1973 Towards An African Literature
+  - A. C. Jordan 1973
+  - A. C. Jordan
+  - Towards An African Literature
+  - Jordan1973TowardsAnAfricanLiterature
+type: book
+zotero_key: 9KIGS25V
+zotero_url: https://www.zotero.org/humanitiesinnovationlab/items/9KIGS25V
+responsible_party: A. C. Jordan
 record_title: "Towards an African literature: the emergence of literary form in Xhosa"
 record_year: "1973"
 callnumber: ""
 autoupdate: true
-pdf: false
+pdf: true
 ---
 
 # Supplied Content

@@ -1,20 +1,20 @@
 ---
-citekey: "Miletich1976TheQuestForThe"
-aliases: 
-  - "J. S. Miletich 1976 The Quest For The"
-  - "J. S. Miletich 1976"
-  - "J. S. Miletich"
-  - "The Quest For The"
-  - "Miletich1976TheQuestForThe"
-type: "journalArticle"
-zotero_key: "WPI9VHET"
-zotero_url: "https://www.zotero.org/humanitiesinnovationlab/items/WPI9VHET"
-responsible_party: "J. S. Miletich"
+citekey: Miletich1976TheQuestForThe
+aliases:
+  - J. S. Miletich 1976 The Quest For The
+  - J. S. Miletich 1976
+  - J. S. Miletich
+  - The Quest For The
+  - Miletich1976TheQuestForThe
+type: journalArticle
+zotero_key: WPI9VHET
+zotero_url: https://www.zotero.org/humanitiesinnovationlab/items/WPI9VHET
+responsible_party: J. S. Miletich
 record_title: "The quest for “the formula”: a comparative reappraisal"
 record_year: "1976"
 callnumber: ""
 autoupdate: true
-pdf: false
+pdf: true
 ---
 
 # Supplied Content

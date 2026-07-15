@@ -1,20 +1,20 @@
 ---
-citekey: "Henry1966TheOriginOfCædmon"
-aliases: 
-  - "P. L. Henry 1966 The Origin Of Cædmon"
-  - "P. L. Henry 1966"
-  - "P. L. Henry"
-  - "The Origin Of Cædmon"
-  - "Henry1966TheOriginOfCædmon"
-type: "bookSection"
-zotero_key: "RNZ6MGHJ"
-zotero_url: "https://www.zotero.org/humanitiesinnovationlab/items/RNZ6MGHJ"
-responsible_party: "P. L. Henry"
-record_title: "The origin of Cædmon’s Hymn"
+citekey: Henry1966TheOriginOfCædmon
+aliases:
+  - P. L. Henry 1966 The Origin Of Cædmon
+  - P. L. Henry 1966
+  - P. L. Henry
+  - The Origin Of Cædmon
+  - Henry1966TheOriginOfCædmon
+type: bookSection
+zotero_key: RNZ6MGHJ
+zotero_url: https://www.zotero.org/humanitiesinnovationlab/items/RNZ6MGHJ
+responsible_party: P. L. Henry
+record_title: The origin of Cædmon’s Hymn
 record_year: "1966"
 callnumber: ""
 autoupdate: true
-pdf: false
+pdf: true
 ---
 
 # Supplied Content

@@ -1,20 +1,20 @@
 ---
-citekey: "Wanley1970LibrorumVettSeptentrionaliumCatalogus"
-aliases: 
-  - "H. Wanley 1970 Librorum Vett Septentrionalium Catalogus"
-  - "H. Wanley 1970"
-  - "H. Wanley"
-  - "Librorum Vett Septentrionalium Catalogus"
-  - "Wanley1970LibrorumVettSeptentrionaliumCatalogus"
-type: "book"
-zotero_key: "Q2Q456SF"
-zotero_url: "https://www.zotero.org/humanitiesinnovationlab/items/Q2Q456SF"
-responsible_party: "H. Wanley"
-record_title: "Librorum vett. septentrionalium catalogus"
+citekey: Wanley1970LibrorumVettSeptentrionaliumCatalogus
+aliases:
+  - H. Wanley 1970 Librorum Vett Septentrionalium Catalogus
+  - H. Wanley 1970
+  - H. Wanley
+  - Librorum Vett Septentrionalium Catalogus
+  - Wanley1970LibrorumVettSeptentrionaliumCatalogus
+type: book
+zotero_key: Q2Q456SF
+zotero_url: https://www.zotero.org/humanitiesinnovationlab/items/Q2Q456SF
+responsible_party: H. Wanley
+record_title: Librorum vett. septentrionalium catalogus
 record_year: "1970"
 callnumber: ""
 autoupdate: true
-pdf: false
+pdf: true
 ---
 
 # Supplied Content

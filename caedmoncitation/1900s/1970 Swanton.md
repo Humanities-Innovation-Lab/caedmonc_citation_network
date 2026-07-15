@@ -1,20 +1,20 @@
 ---
-citekey: "Swanton1970TheDreamOfThe"
-aliases: 
-  - "M. Swanton 1970 The Dream Of The"
-  - "M. Swanton 1970"
-  - "M. Swanton"
-  - "The Dream Of The"
-  - "Swanton1970TheDreamOfThe"
-type: "book"
-zotero_key: "DKPG3QIF"
-zotero_url: "https://www.zotero.org/humanitiesinnovationlab/items/DKPG3QIF"
-responsible_party: "M. Swanton"
-record_title: "The Dream of the Rood"
+citekey: Swanton1970TheDreamOfThe
+aliases:
+  - M. Swanton 1970 The Dream Of The
+  - M. Swanton 1970
+  - M. Swanton
+  - The Dream Of The
+  - Swanton1970TheDreamOfThe
+type: book
+zotero_key: DKPG3QIF
+zotero_url: https://www.zotero.org/humanitiesinnovationlab/items/DKPG3QIF
+responsible_party: M. Swanton
+record_title: The Dream of the Rood
 record_year: "1970"
 callnumber: ""
 autoupdate: true
-pdf: false
+pdf: true
 ---
 
 # Supplied Content

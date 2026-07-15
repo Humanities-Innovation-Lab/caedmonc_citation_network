@@ -1,20 +1,20 @@
 ---
-citekey: "Meyvaert1961TheBedeSignatureIn"
-aliases: 
-  - "P. Meyvaert 1961 The Bede Signature In"
-  - "P. Meyvaert 1961"
-  - "P. Meyvaert"
-  - "The Bede Signature In"
-  - "Meyvaert1961TheBedeSignatureIn"
-type: "journalArticle"
-zotero_key: "N4KJT27Q"
-zotero_url: "https://www.zotero.org/humanitiesinnovationlab/items/N4KJT27Q"
-responsible_party: "P. Meyvaert"
-record_title: "The Bede “signature” in the Leningrad colophon"
+citekey: Meyvaert1961TheBedeSignatureIn
+aliases:
+  - P. Meyvaert 1961 The Bede Signature In
+  - P. Meyvaert 1961
+  - P. Meyvaert
+  - The Bede Signature In
+  - Meyvaert1961TheBedeSignatureIn
+type: journalArticle
+zotero_key: N4KJT27Q
+zotero_url: https://www.zotero.org/humanitiesinnovationlab/items/N4KJT27Q
+responsible_party: P. Meyvaert
+record_title: The Bede “signature” in the Leningrad colophon
 record_year: "1961"
 callnumber: ""
 autoupdate: true
-pdf: false
+pdf: true
 ---
 
 # Supplied Content

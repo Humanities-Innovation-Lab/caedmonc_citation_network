@@ -1,20 +1,20 @@
 ---
-citekey: "Jackson1953LanguageAndHistoryIn"
-aliases: 
-  - "K. H. Jackson 1953 Language And History In"
-  - "K. H. Jackson 1953"
-  - "K. H. Jackson"
-  - "Language And History In"
-  - "Jackson1953LanguageAndHistoryIn"
-type: "book"
-zotero_key: "6IVVTG5V"
-zotero_url: "https://www.zotero.org/humanitiesinnovationlab/items/6IVVTG5V"
-responsible_party: "K. H. Jackson"
+citekey: Jackson1953LanguageAndHistoryIn
+aliases:
+  - K. H. Jackson 1953 Language And History In
+  - K. H. Jackson 1953
+  - K. H. Jackson
+  - Language And History In
+  - Jackson1953LanguageAndHistoryIn
+type: book
+zotero_key: 6IVVTG5V
+zotero_url: https://www.zotero.org/humanitiesinnovationlab/items/6IVVTG5V
+responsible_party: K. H. Jackson
 record_title: "Language and history in early Britain: a chronological survey of the Brittonic languages, first to twelfth century A.D"
 record_year: "1953"
 callnumber: ""
 autoupdate: true
-pdf: false
+pdf: true
 ---
 
 # Supplied Content

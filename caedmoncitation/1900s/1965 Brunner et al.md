@@ -1,20 +1,20 @@
 ---
-citekey: "Brunner1965AltenglischeGrammatikNachDer"
-aliases: 
-  - "K. Brunner, E. Sievers 1965 Altenglische Grammatik Nach Der"
-  - "K. Brunner, E. Sievers 1965"
-  - "K. Brunner, E. Sievers"
-  - "Altenglische Grammatik Nach Der"
-  - "Brunner1965AltenglischeGrammatikNachDer"
-type: "book"
-zotero_key: "QXM5TA56"
-zotero_url: "https://www.zotero.org/humanitiesinnovationlab/items/QXM5TA56"
-responsible_party: "K. Brunner, E. Sievers"
-record_title: "Altenglische Grammatik nach der angelsächsischen Grammatik von Eduard Sievers"
+citekey: Brunner1965AltenglischeGrammatikNachDer
+aliases:
+  - K. Brunner, E. Sievers 1965 Altenglische Grammatik Nach Der
+  - K. Brunner, E. Sievers 1965
+  - K. Brunner, E. Sievers
+  - Altenglische Grammatik Nach Der
+  - Brunner1965AltenglischeGrammatikNachDer
+type: book
+zotero_key: QXM5TA56
+zotero_url: https://www.zotero.org/humanitiesinnovationlab/items/QXM5TA56
+responsible_party: K. Brunner, E. Sievers
+record_title: Altenglische Grammatik nach der angelsächsischen Grammatik von Eduard Sievers
 record_year: "1965"
 callnumber: ""
 autoupdate: true
-pdf: false
+pdf: true
 ---
 
 # Supplied Content

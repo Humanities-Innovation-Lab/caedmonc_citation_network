@@ -1,20 +1,20 @@
 ---
-citekey: "White1978MedievalReligionAndTechnology"
-aliases: 
-  - "L. T. White 1978 Medieval Religion And Technology"
-  - "L. T. White 1978"
-  - "L. T. White"
-  - "Medieval Religion And Technology"
-  - "White1978MedievalReligionAndTechnology"
-type: "book"
-zotero_key: "K3IHUT6E"
-zotero_url: "https://www.zotero.org/humanitiesinnovationlab/items/K3IHUT6E"
-responsible_party: "L. T. White"
+citekey: White1978MedievalReligionAndTechnology
+aliases:
+  - L. T. White 1978 Medieval Religion And Technology
+  - L. T. White 1978
+  - L. T. White
+  - Medieval Religion And Technology
+  - White1978MedievalReligionAndTechnology
+type: book
+zotero_key: K3IHUT6E
+zotero_url: https://www.zotero.org/humanitiesinnovationlab/items/K3IHUT6E
+responsible_party: L. T. White
 record_title: "Medieval religion and technology: collected essays"
 record_year: "1978"
 callnumber: ""
 autoupdate: true
-pdf: false
+pdf: true
 ---
 
 # Supplied Content

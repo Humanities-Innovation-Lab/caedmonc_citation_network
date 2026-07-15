@@ -1,20 +1,20 @@
 ---
-citekey: "Kendall1975DeArteMetricaEt"
-aliases: 
-  - "C. B. Kendall 1975 De Arte Metrica Et"
-  - "C. B. Kendall 1975"
-  - "C. B. Kendall"
-  - "De Arte Metrica Et"
-  - "Kendall1975DeArteMetricaEt"
-type: "bookSection"
-zotero_key: "5RE5X4N5"
-zotero_url: "https://www.zotero.org/humanitiesinnovationlab/items/5RE5X4N5"
-responsible_party: "C. B. Kendall"
-record_title: "De arte metrica et de schematibus et tropis"
+citekey: Kendall1975DeArteMetricaEt
+aliases:
+  - C. B. Kendall 1975 De Arte Metrica Et
+  - C. B. Kendall 1975
+  - C. B. Kendall
+  - De Arte Metrica Et
+  - Kendall1975DeArteMetricaEt
+type: bookSection
+zotero_key: 5RE5X4N5
+zotero_url: https://www.zotero.org/humanitiesinnovationlab/items/5RE5X4N5
+responsible_party: C. B. Kendall
+record_title: De arte metrica et de schematibus et tropis
 record_year: "1975"
 callnumber: ""
 autoupdate: true
-pdf: false
+pdf: true
 ---
 
 # Supplied Content

@@ -1,20 +1,20 @@
 ---
-citekey: "Bévenot1962TowardsDatingTheLeningrad"
-aliases: 
-  - "M. S. J. Bévenot 1962 Towards Dating The Leningrad"
-  - "M. S. J. Bévenot 1962"
-  - "M. S. J. Bévenot"
-  - "Towards Dating The Leningrad"
-  - "Bévenot1962TowardsDatingTheLeningrad"
-type: "journalArticle"
-zotero_key: "22PTIT7F"
-zotero_url: "https://www.zotero.org/humanitiesinnovationlab/items/22PTIT7F"
-responsible_party: "M. S. J. Bévenot"
-record_title: "Towards dating the Leningrad “Bede.”"
+citekey: Bévenot1962TowardsDatingTheLeningrad
+aliases:
+  - M. S. J. Bévenot 1962 Towards Dating The Leningrad
+  - M. S. J. Bévenot 1962
+  - M. S. J. Bévenot
+  - Towards Dating The Leningrad
+  - Bévenot1962TowardsDatingTheLeningrad
+type: journalArticle
+zotero_key: 22PTIT7F
+zotero_url: https://www.zotero.org/humanitiesinnovationlab/items/22PTIT7F
+responsible_party: M. S. J. Bévenot
+record_title: Towards dating the Leningrad “Bede.”
 record_year: "1962"
 callnumber: ""
 autoupdate: true
-pdf: false
+pdf: true
 ---
 
 # Supplied Content

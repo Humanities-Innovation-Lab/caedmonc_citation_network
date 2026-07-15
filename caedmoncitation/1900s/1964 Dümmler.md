@@ -1,20 +1,20 @@
 ---
-citekey: "Dümmler1964PoetaeLatiniAeviCarolini"
-aliases: 
-  - "E. Dümmler 1964 Poetae Latini Aevi Carolini"
-  - "E. Dümmler 1964"
-  - "E. Dümmler"
-  - "Poetae Latini Aevi Carolini"
-  - "Dümmler1964PoetaeLatiniAeviCarolini"
-type: "book"
-zotero_key: "RN5KMI58"
-zotero_url: "https://www.zotero.org/humanitiesinnovationlab/items/RN5KMI58"
-responsible_party: "E. Dümmler"
-record_title: "Poetae latini aevi Carolini"
+citekey: Dümmler1964PoetaeLatiniAeviCarolini
+aliases:
+  - E. Dümmler 1964 Poetae Latini Aevi Carolini
+  - E. Dümmler 1964
+  - E. Dümmler
+  - Poetae Latini Aevi Carolini
+  - Dümmler1964PoetaeLatiniAeviCarolini
+type: book
+zotero_key: RN5KMI58
+zotero_url: https://www.zotero.org/humanitiesinnovationlab/items/RN5KMI58
+responsible_party: E. Dümmler
+record_title: Poetae latini aevi Carolini
 record_year: "1964"
 callnumber: ""
 autoupdate: true
-pdf: false
+pdf: true
 ---
 
 # Supplied Content

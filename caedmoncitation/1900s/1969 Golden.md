@@ -1,20 +1,20 @@
 ---
-citekey: "Golden1969AnOnomasticAllusionIn"
-aliases: 
-  - "J. Golden 1969 An Onomastic Allusion In"
-  - "J. Golden 1969"
-  - "J. Golden"
-  - "An Onomastic Allusion In"
-  - "Golden1969AnOnomasticAllusionIn"
-type: "journalArticle"
-zotero_key: "64FIH836"
-zotero_url: "https://www.zotero.org/humanitiesinnovationlab/items/64FIH836"
-responsible_party: "J. Golden"
-record_title: "An onomastic allusion in Cædmon’s Hymn?"
+citekey: Golden1969AnOnomasticAllusionIn
+aliases:
+  - J. Golden 1969 An Onomastic Allusion In
+  - J. Golden 1969
+  - J. Golden
+  - An Onomastic Allusion In
+  - Golden1969AnOnomasticAllusionIn
+type: journalArticle
+zotero_key: 64FIH836
+zotero_url: https://www.zotero.org/humanitiesinnovationlab/items/64FIH836
+responsible_party: J. Golden
+record_title: An onomastic allusion in Cædmon’s Hymn?
 record_year: "1969"
 callnumber: ""
 autoupdate: true
-pdf: false
+pdf: true
 ---
 
 # Supplied Content

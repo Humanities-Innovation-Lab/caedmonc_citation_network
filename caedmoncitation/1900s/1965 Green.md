@@ -1,20 +1,20 @@
 ---
-citekey: "Green1965TheCarolingianLordSemantic"
-aliases: 
-  - "D. H. Green 1965 The Carolingian Lord Semantic"
-  - "D. H. Green 1965"
-  - "D. H. Green"
-  - "The Carolingian Lord Semantic"
-  - "Green1965TheCarolingianLordSemantic"
-type: "book"
-zotero_key: "PQBW7CA2"
-zotero_url: "https://www.zotero.org/humanitiesinnovationlab/items/PQBW7CA2"
-responsible_party: "D. H. Green"
+citekey: Green1965TheCarolingianLordSemantic
+aliases:
+  - D. H. Green 1965 The Carolingian Lord Semantic
+  - D. H. Green 1965
+  - D. H. Green
+  - The Carolingian Lord Semantic
+  - Green1965TheCarolingianLordSemantic
+type: book
+zotero_key: PQBW7CA2
+zotero_url: https://www.zotero.org/humanitiesinnovationlab/items/PQBW7CA2
+responsible_party: D. H. Green
 record_title: "The Carolingian lord: semantic studies on four Old High German words: balder, frô, trahtin, hêrro"
 record_year: "1965"
 callnumber: ""
 autoupdate: true
-pdf: false
+pdf: true
 ---
 
 # Supplied Content

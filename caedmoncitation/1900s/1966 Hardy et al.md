@@ -1,20 +1,20 @@
 ---
-citekey: "Hardy1966GestaHerwardiSolumLa"
-aliases: 
-  - "T. D. Hardy, C. T. Martin, eds. [1888 ] 1966 Gesta Herwardi Solum La"
-  - "T. D. Hardy, C. T. Martin, eds. [1888 ] 1966"
-  - "T. D. Hardy, C. T. Martin, eds. [1888 ]"
-  - "Gesta Herwardi Solum La"
-  - "Hardy1966GestaHerwardiSolumLa"
-type: "bookSection"
-zotero_key: "ECNAX9ZS"
-zotero_url: "https://www.zotero.org/humanitiesinnovationlab/items/ECNAX9ZS"
-responsible_party: "T. D. Hardy, C. T. Martin, eds. [1888 ]"
-record_title: "Gesta Herwardi solum la translacion Maistre Geffrei Gaimar"
+citekey: Hardy1966GestaHerwardiSolumLa
+aliases:
+  - T. D. Hardy, C. T. Martin, eds. [1888 ] 1966 Gesta Herwardi Solum La
+  - T. D. Hardy, C. T. Martin, eds. [1888 ] 1966
+  - T. D. Hardy, C. T. Martin, eds. [1888 ]
+  - Gesta Herwardi Solum La
+  - Hardy1966GestaHerwardiSolumLa
+type: bookSection
+zotero_key: ECNAX9ZS
+zotero_url: https://www.zotero.org/humanitiesinnovationlab/items/ECNAX9ZS
+responsible_party: T. D. Hardy, C. T. Martin, eds. [1888 ]
+record_title: Gesta Herwardi solum la translacion Maistre Geffrei Gaimar
 record_year: "1966"
 callnumber: ""
 autoupdate: true
-pdf: false
+pdf: true
 ---
 
 # Supplied Content

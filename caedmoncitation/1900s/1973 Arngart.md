@@ -1,20 +1,20 @@
 ---
-citekey: "Arngart1973OnTheDatingOf"
-aliases: 
-  - "O. S. Arngart 1973 On The Dating Of"
-  - "O. S. Arngart 1973"
-  - "O. S. Arngart"
-  - "On The Dating Of"
-  - "Arngart1973OnTheDatingOf"
-type: "journalArticle"
-zotero_key: "R6R95JTC"
-zotero_url: "https://www.zotero.org/humanitiesinnovationlab/items/R6R95JTC"
-responsible_party: "O. S. Arngart"
-record_title: "On the dating of early Bede manuscripts"
+citekey: Arngart1973OnTheDatingOf
+aliases:
+  - O. S. Arngart 1973 On The Dating Of
+  - O. S. Arngart 1973
+  - O. S. Arngart
+  - On The Dating Of
+  - Arngart1973OnTheDatingOf
+type: journalArticle
+zotero_key: R6R95JTC
+zotero_url: https://www.zotero.org/humanitiesinnovationlab/items/R6R95JTC
+responsible_party: O. S. Arngart
+record_title: On the dating of early Bede manuscripts
 record_year: "1973"
 callnumber: ""
 autoupdate: true
-pdf: false
+pdf: true
 ---
 
 # Supplied Content

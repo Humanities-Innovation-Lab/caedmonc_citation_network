@@ -1,20 +1,20 @@
 ---
-citekey: "Sisam1953StudiesInTheHistory"
-aliases: 
-  - "K. Sisam 1953 Studies In The History"
-  - "K. Sisam 1953"
-  - "K. Sisam"
-  - "Studies In The History"
-  - "Sisam1953StudiesInTheHistory"
-type: "book"
-zotero_key: "I5WFRV5R"
-zotero_url: "https://www.zotero.org/humanitiesinnovationlab/items/I5WFRV5R"
-responsible_party: "K. Sisam"
-record_title: "Studies in the history of Old English literature"
+citekey: Sisam1953StudiesInTheHistory
+aliases:
+  - K. Sisam 1953 Studies In The History
+  - K. Sisam 1953
+  - K. Sisam
+  - Studies In The History
+  - Sisam1953StudiesInTheHistory
+type: book
+zotero_key: I5WFRV5R
+zotero_url: https://www.zotero.org/humanitiesinnovationlab/items/I5WFRV5R
+responsible_party: K. Sisam
+record_title: Studies in the history of Old English literature
 record_year: "1953"
 callnumber: ""
 autoupdate: true
-pdf: false
+pdf: true
 ---
 
 # Supplied Content
