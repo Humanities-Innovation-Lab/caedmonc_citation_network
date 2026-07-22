@@ -1,20 +1,20 @@
 ---
-citekey: "Lings1983MuhammadHisLifeBased"
-aliases: 
-  - "M. Lings 1983 Muhammad His Life Based"
-  - "M. Lings 1983"
-  - "M. Lings"
-  - "Muhammad His Life Based"
-  - "Lings1983MuhammadHisLifeBased"
-type: "book"
-zotero_key: "W6N3JQDG"
-zotero_url: "https://www.zotero.org/humanitiesinnovationlab/items/W6N3JQDG"
-responsible_party: "M. Lings"
+citekey: Lings1983MuhammadHisLifeBased
+aliases:
+  - M. Lings 1983 Muhammad His Life Based
+  - M. Lings 1983
+  - M. Lings
+  - Muhammad His Life Based
+  - Lings1983MuhammadHisLifeBased
+type: book
+zotero_key: W6N3JQDG
+zotero_url: https://www.zotero.org/humanitiesinnovationlab/items/W6N3JQDG
+responsible_party: M. Lings
 record_title: "Muhammad: his life based on the earliest sources"
 record_year: "1983"
 callnumber: ""
 autoupdate: true
-pdf: false
+pdf: true
 ---
 
 # Supplied Content
